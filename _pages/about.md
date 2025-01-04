@@ -24,21 +24,20 @@ My research interests are environmental impact assessment, human behavior simula
 Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects. Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
 
 # 📰 News
-- 2024.12: Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
-- 2024.10: Awarded National Scholarship for two consecutive years.
+- 2024.12: 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
+- 2024.10: 🎉 Awarded National Scholarship for two consecutive years.
 - 2024.09: Attended International Conference on Applied Energy in Niigata, Japan and presented my work.
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Water</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 
-- **Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang.  
-- *npj Clean Water*, 2024.  
-- Presented at icRS 2023, ISIE 2023, and CUE 2022.  
-- Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). 
+**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang (2024).  
+- This study introduces the Prophet-GRU hybrid model, which integrates historical water and electricity consumption data to predict hourly usage, achieving R² improvements of 29.2% for water and 48.5% for electricity while reducing input parameters by 78.0%, thereby enhancing water-energy resource management.
+- Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations).
 </div>
 </div>
 

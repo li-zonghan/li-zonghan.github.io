@@ -15,5 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Other experiences"
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+    
+  - title: "Other Experiences"
     url: "/#-other-experiences"

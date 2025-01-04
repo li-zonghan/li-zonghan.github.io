@@ -81,7 +81,9 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
 ## 📚 Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/LLM-questionnaire.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey.</u> **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
+<u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey.</u> 
+
+**Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 </div>
 </div>
 
@@ -89,6 +91,7 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
 <div class='paper-box-text' markdown="1">
 
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
+
 Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 </div>
 </div>
@@ -97,7 +100,8 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 <div class='paper-box-text' markdown="1">
 
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
-- **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
+
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
 </div>
 </div>
 
@@ -129,7 +133,8 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 ## Journal Referee
   - *Journal of Cleaner Production* (four times)
   - *International Journal of Electrical Power & Energy Systems*
-## Social work: 
+
+## Social Work
   - Academic-related works:
     - *2023.04 - 2023.10*, Editor of *T+Z Technology Reveiw* special issue on carbon neutrality, Tsinghua University.
     - *2020.09 - 2021.09*, President of English Assocation, China University of Petroleum.

@@ -37,8 +37,7 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 
-**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang (2024).  
-- This study introduces the Prophet-GRU hybrid model, which integrates historical water and electricity consumption data to predict hourly usage, achieving R² improvements of 29.2% for water and 48.5% for electricity while reducing input parameters by 78.0%, thereby enhancing water-energy resource management.
+**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024.
 - Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations).
 </div>
 </div>
@@ -47,9 +46,8 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <div class='paper-box-text' markdown="1">
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
-- Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu.
-- *Water Research*, 2023.  
-- Presented at WatermateX 2023 and CUE 2022. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/107457.htm).
+Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu. *Water Research*, 2023.  
+- Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/107457.htm).
 </div>
 </div>
 
@@ -57,9 +55,8 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <div class='paper-box-text' markdown="1">
 
 [A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
-- **Zonghan Li**, Chunyan Wang, Yi Liu.
-- *Scientific Data*, 2023.  
-- Presented at icRS 2023 and ISIE 2023. Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).
+**Zonghan Li**, Chunyan Wang, Yi Liu. *Scientific Data*, 2023.  
+- Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).
 - The dataset could be downloaded from [*figshare*](https://doi.org/10.6084/m9.figshare.c.6234957.v1) for free.
 </div>
 </div>
@@ -68,8 +65,7 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <div class='paper-box-text' markdown="1">
 
 [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084).  
-- **Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang.
-- *International Journal of Electrical Power and Energy Systems*, 2022.
+**Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022.
 - Supported by the National-level Student Research Training Project: Global Energy Prospective.
 </div>
 </div>
@@ -78,8 +74,7 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <div class='paper-box-text' markdown="1">
   
 [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  
-- Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li.
-- *Environmental Science and Pollution Research*, 2021.
+Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.
 </div>
 </div>
 
@@ -94,14 +89,15 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <div class='paper-box-text' markdown="1">
 
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
-- Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
+Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<u>Balancing act: How community measures shape environmental risk perception and behaviour</u> 
+<u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
+- **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
 </div>
 </div>
 

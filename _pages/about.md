@@ -118,16 +118,18 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 - *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, China University of Petroleum-Beijing, Beijing, China.
 - *2021.09 - 2022.01*, Semester exchange, School of Business, University of Dundee, Dundee, UK.
 
-# 💼 Other experiences
-- Journal Referee
-  - *Journal of Cleaner Production* (four times)
-  - *International Journal of Electrical Power & Energy Systems*
+# 🧑‍🏫 Teaching Experience
 - Teaching Assistant
   - 2024 Fall: Atmospheric Numerical Modeling, graduate, 2 credicts.
   - 2024 Spring: Theory of Environmental System Modelling and Complex Models (80050092), graduate, 2 credits.
   - 2023 Spring, Social Computing (70670343), graduate, 2 credits.
   - 2022 Fall, Environmental System Thinking and Big Data (00050131), undergraduate, 1 credit (2 teaching rounds).
-- Social work: 
+
+# 💼 Other Experiences
+## Journal Referee
+  - *Journal of Cleaner Production* (four times)
+  - *International Journal of Electrical Power & Energy Systems*
+## Social work: 
   - Academic-related works:
     - *2023.04 - 2023.10*, Editor of *T+Z Technology Reveiw* special issue on carbon neutrality, Tsinghua University.
     - *2020.09 - 2021.09*, President of English Assocation, China University of Petroleum.
@@ -139,4 +141,4 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
 
-*Last update: Dec 17, 2024*
+*Last update: Jan 4, 2025*

@@ -84,11 +84,10 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 </div>
 
 ## 📚 Under Review
-<div class='paper-box'><div class="badge">Under Review</div></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"><div class="badge">Under Review</div>
 <u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey.</u> **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 </div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/UWS-carbon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

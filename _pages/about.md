@@ -83,13 +83,10 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 
 # 📝 Selected working papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/LLM-questionnaire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class="badge">Under Review</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-<u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey</u> 
-- **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
-- Submitted to journal.
-- Presented at AGU24, ICAE2024.
+<u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey.</u> **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 </div>
 </div>
 

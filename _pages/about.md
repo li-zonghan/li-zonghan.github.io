@@ -30,6 +30,33 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 
 # 📖 Publications 
 
+## 📚 Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/LLM-questionnaire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey.</u> 
+
+**Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/UWS-carbon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
+
+Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
+
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
+</div>
+</div>
+
 ## 📚 Published
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Water</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
@@ -75,33 +102,6 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
   
 [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  
 Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.
-</div>
-</div>
-
-## 📚 Under Review
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/LLM-questionnaire.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<u>Nudging daily water and energy conservation with large language models: Evidence from an intention survey.</u> 
-
-**Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/UWS-carbon.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
-
-Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Article</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
-
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
 </div>
 </div>
 

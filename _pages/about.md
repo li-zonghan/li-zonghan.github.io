@@ -57,7 +57,7 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 </div>
 </div>
 
-## 📚 Accepted
+## 📚 Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Water</div><img src='images/clrc2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

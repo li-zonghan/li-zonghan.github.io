@@ -57,7 +57,15 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 </div>
 </div>
 
-## 📚 Published
+## 📚 Accepted
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Water</div><img src='images/clrc2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A hybrid model of machine learning for classifying household water-consumption behaviors](https://www.sciencedirect.com/journal/cleaner-and-responsible-consumption)
+
+Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Water</div><img src='images/npjcleanwater2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

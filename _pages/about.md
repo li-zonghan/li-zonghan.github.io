@@ -36,6 +36,8 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <u>Promoting daily water and energy conservation with large language model-powered nudges: an online intention survey</u> 
 
 **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
+
+- [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
 </div>
 </div>
 
@@ -46,6 +48,8 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
 
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
+
+- [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
 </div>
 
@@ -65,7 +69,7 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/clrs2025-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A hybrid model of machine learning for classifying household water-consumption behaviors](https://www.sciencedirect.com/journal/cleaner-and-responsible-consumption)
+[A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252)
 
 Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025.
 </div>

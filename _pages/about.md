@@ -81,7 +81,7 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 
 **Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024.
-- Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations).
+- Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). [Slides](https://cloud.tsinghua.edu.cn/f/5aafa8e134ff44ae807f/) available.
 </div>
 </div>
 

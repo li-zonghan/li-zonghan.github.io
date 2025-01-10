@@ -31,7 +31,7 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 # 📖 Publications 
 
 ## 📚 Under Review / Submitted
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x LLM</div><img src='images/LLM-questionnaire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x LLM</div><img src='images/llm-nudge-questionnaire-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <u>Promoting daily water and energy conservation with large language model-powered nudges: an online intention survey</u> 
 
@@ -50,7 +50,7 @@ Please feel free to reach out to me if you have any questions or wish to collabo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban water system</div><img src='images/UWS-carbon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban water system</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
@@ -62,7 +62,7 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 
 
 ## 📚 Published
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/clrc2025-result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/clrs2025-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A hybrid model of machine learning for classifying household water-consumption behaviors](https://www.sciencedirect.com/journal/cleaner-and-responsible-consumption)

@@ -17,16 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zonghan Li, a master‘s student studying *Environmental Social Science* at Tsinghua University, supervised by Professor Yi Liu. 
+Hello! Thanks for stopping by👋!
 
-My research interests are environmental impact assessment, human behavior simulation, and climate change mitigation. I am mianly using tools like machine learning, statistical causal inference, large language models, structural equation models, field survey and experiment to solve the research problems.
+I am Zonghan Li, a master’s student studying *Environmental Social Science* at Tsinghua University under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from China University of Petroleum, with a background in both fossil and renewable energy.
 
-Please feel free to reach out to me if you have any questions or wish to collaborate on any related projects. Email: zh-li22@mails.tsinghua.edu.cn; lzh3603@gmail.com
+My research interests include environmental impact assessment, human behavior simulation, and climate change mitigation. I primarily use tools such as machine learning, statistical causal inference, large language models, structural equation models, field surveys, and experiments to address research challenges.
+
+Currently, I am working on designing a Retrieval-Augmented Generation platform using large language models to nudge energy and water conservation behaviors on university campuses. This platform has helped students save approximately 20% of electricity and water resources in their dormitories on average and has received strong official support!
+
+**I am applying for doctoral programs for Fall 2025. If you are interested in my work, please feel free to contact me!**
+
+Please feel free to reach out if you have any questions or wish to collaborate on related projects.
+
 
 # 📰 News
 - 2024.12: 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
-- 2024.10: 🎉 Awarded National Scholarship for two consecutive years.
-- 2024.09: Attended International Conference on Applied Energy in Niigata, Japan and presented my work.
+- 2024.10: 🥇 Awarded **National Scholarship** for two consecutive years (the only master's student among the 2021~2024 cohorts).
+- 2024.09: 📊 Attended International Conference on Applied Energy in Niigata, Japan and presented my work.
 
 # 📖 Publications 
 

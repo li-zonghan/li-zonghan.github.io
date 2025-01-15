@@ -21,23 +21,23 @@ Hello! Thanks for stopping by👋!
 
 I am Zonghan Li, a master’s student studying *Environmental Social Science* at Tsinghua University under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from China University of Petroleum, with a background in both fossil and renewable energy. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia).
 
-My research interests span environmental impact assessment, human behavior simulation, and climate change mitigation. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
+My research interests span 🍀environmental impact assessment, 👤human behavior simulation, and 🌍climate change mitigation. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 
 Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save around 20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua. I am leading a team of six to refine the platform further, with the aim of expanding its application to more universities.
 
 **I am applying for doctoral programs for Fall 2025. If you’re interested in my work or would like to discuss potential collaborations, please feel free to reach out!**
 
 # 📰 News
-- 2024.12: 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
-- 2024.10: 🥇 Awarded **National Scholarship** for two consecutive years (the only master's student among the 2021~2024 cohorts).
-- 2024.09: 📊 Attended International Conference on Applied Energy in Niigata, Japan and presented my work.
+- **December 2024** 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
+- **October 2024** 🥇 Awarded **National Scholarship** for two consecutive years (the only master’s student among the 2021–2024 cohorts at School of Environment).
+- **September 2024** 📊 Attended the International Conference on Applied Energy in Niigata, Japan and presented my work orally.
 
 # 📖 Publications 
 
 ## 📚 Under Review / Submitted
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x LLM</div><img src='images/llm-nudge-questionnaire-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<u>Promoting daily water and energy conservation with large language model-powered nudges: an online intention survey</u> 
+<u>Promoting daily water and energy conservation with large language model-powered nudges</u> 
 
 **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 

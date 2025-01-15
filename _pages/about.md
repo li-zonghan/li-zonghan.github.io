@@ -19,16 +19,13 @@ redirect_from:
 
 Hello! Thanks for stopping by👋!
 
-I am Zonghan Li, a master’s student studying *Environmental Social Science* at Tsinghua University under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from China University of Petroleum, with a background in both fossil and renewable energy.
+I am Zonghan Li, a master’s student studying *Environmental Social Science* at Tsinghua University under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from China University of Petroleum, with a background in both fossil and renewable energy. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia).
 
-My research interests include environmental impact assessment, human behavior simulation, and climate change mitigation. I primarily use tools such as machine learning, statistical causal inference, large language models, structural equation models, field surveys, and experiments to address research challenges.
+My research interests span environmental impact assessment, human behavior simulation, and climate change mitigation. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 
-Currently, I am working on designing a Retrieval-Augmented Generation platform using large language models to nudge energy and water conservation behaviors on university campuses. This platform has helped students save approximately 20% of electricity and water resources in their dormitories on average and has received strong official support!
+Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save around 20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua. I am leading a team of six to refine the platform further, with the aim of expanding its application to more universities.
 
-**I am applying for doctoral programs for Fall 2025. If you are interested in my work, please feel free to contact me!**
-
-Please feel free to reach out if you have any questions or wish to collaborate on related projects.
-
+**I am applying for doctoral programs for Fall 2025. If you’re interested in my work or would like to discuss potential collaborations, please feel free to reach out!**
 
 # 📰 News
 - 2024.12: 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.

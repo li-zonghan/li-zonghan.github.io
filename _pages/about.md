@@ -41,7 +41,7 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 
 **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 
-- [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
+- [Full text](https://cloud.tsinghua.edu.cn/f/7b0c5b556e094a57887a/) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
 </div>
 </div>
 

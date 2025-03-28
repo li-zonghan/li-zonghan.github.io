@@ -41,10 +41,9 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 
 **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 
-- [Full text](https://cloud.tsinghua.edu.cn/f/7b0c5b556e094a57887a/) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
+- Sumbitted to *Nature Communications*. [ArXiv Preprint](https://arxiv.org/abs/2503.11531) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +52,7 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
 
-- Currently under major revision. [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
+- Under review at *Environmental Impact Assessment Review*. [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
 </div>
 
@@ -64,6 +63,8 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
 
 Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
+
+- Under review at *Resources, Environment and Sustainability*.
 </div>
 </div>
 

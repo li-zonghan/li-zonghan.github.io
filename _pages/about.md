@@ -28,6 +28,7 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 **I am applying for doctoral programs for Fall 2025. If you’re interested in my work or would like to discuss potential collaborations, please feel free to reach out!**
 
 # 📰 News
+- **March 2025** 📑 Posted a preprint on *Potential of promoting daily water and energy conservation with large language model-powered nudging* to arXiv. 
 - **December 2024** 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
 - **October 2024** 🥇 Awarded **National Scholarship** for two consecutive years (the only master’s student among the 2021–2024 cohorts at School of Environment).
 - **September 2024** 📊 Attended the International Conference on Applied Energy in Niigata, Japan and presented my work orally.
@@ -64,10 +65,9 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 
 Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 
-- Under review at *Resources, Environment and Sustainability*.
+- Under major revision at *Resources, Environment and Sustainability*.
 </div>
 </div>
-
 
 
 ## 📚 Published

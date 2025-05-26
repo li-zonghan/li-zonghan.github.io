@@ -19,9 +19,9 @@ redirect_from:
 
 Hello! Thanks for stopping by👋!
 
-I am Zonghan Li, a master’s student studying *Environmental Social Science* at **Tsinghua University** under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from **China University of Petroleum**. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia). I will join **University of Toronto** as a PhD student in *Applied Psychology* from Fall 2025.
+I am Zonghan Li, a master’s student studying *Environmental Social Science* at **Tsinghua University** under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from **China University of Petroleum**. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia). 
 
-My research interests span 👤human behavior simulation, 🤖artificial intellgence, and 🌍environmental impact assessment. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
+My research interests span 👤human behavior simulation, 🤖artificial intellgence, and 🌍environmental system analysis. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 
 Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save ~20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua.
 

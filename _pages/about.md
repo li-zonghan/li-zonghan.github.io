@@ -19,15 +19,15 @@ redirect_from:
 
 Hello! Thanks for stopping by👋!
 
-I am Zonghan Li, a master’s student studying *Environmental Social Science* at Tsinghua University under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from China University of Petroleum, with a background in both fossil and renewable energy. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia).
+I am Zonghan Li, a master’s student studying *Environmental Social Science* at **Tsinghua University** under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from **China University of Petroleum**. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia). I will join **University of Toronto** as a PhD student in *Applied Psychology* from Fall 2025.
 
-My research interests span 🍀environmental impact assessment, 👤human behavior simulation, and 🌍climate change mitigation. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
+My research interests span 👤human behavior simulation, 🤖artificial intellgence, and 🌍environmental impact assessment. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 
-Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save around 20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua. I am leading a team of six to refine the platform further, with the aim of expanding its application to more universities.
-
-**I am applying for doctoral programs for Fall 2025. If you’re interested in my work or would like to discuss potential collaborations, please feel free to reach out!**
+Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save ~20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua.
 
 # 📰 News
+- **May 2025** 🎓 **Passed the master thesis defense!🎉**
+- **May 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
 - **March 2025** 📑 Posted a preprint on *Potential of promoting daily water and energy conservation with large language model-powered nudging* to arXiv. 
 - **December 2024** 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
 - **October 2024** 🥇 Awarded **National Scholarship** for two consecutive years (the only master’s student among the 2021–2024 cohorts at School of Environment).
@@ -157,16 +157,16 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
 # 💼 Other Experiences
 ## Journal Referee
   - *Journal of Cleaner Production* (four times)
-  - *iScience*
-  - *International Journal of Electrical Power & Energy Systems*
+  - *iScience* (twice)
+  - *International Journal of Electrical Power & Energy Systems* (twice)
 
 ## Social Work
   - Academic-related works:
     - *2023.04 - 2023.10*, Editor of *T+Z Technology Reveiw* special issue on carbon neutrality, Tsinghua University.
     - *2020.09 - 2021.09*, President of English Assocation, China University of Petroleum.
   - Social services:
-    - *2024.05 - Now*, Consultant of Academic Career Workshop, Tsinghua University.
-    - *2023.07 - Now*, Graduate freshman counselor (for 2023 and 2024 cohorts) of School of Environment, Tsinghua University.
+    - *2024.05 - 2025.05*, Consultant of Academic Career Workshop, Tsinghua University.
+    - *2023.07 - 2025.03*, Graduate freshman counselor (for 2023 and 2024 cohorts) of School of Environment, Tsinghua University.
     - *2023.02 - 2023.08*, Dean's Assistant of School of Environment, Tsinghua University.
     - *2018.09 - 2022.06*, League branch secretary of Energy Economy Grade 2018, China University of Petroleum. Awarded **Outstanding league branch of Beijing**.
   - Voluntary work:

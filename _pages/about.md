@@ -19,11 +19,13 @@ redirect_from:
 
 Hello! Thanks for stopping by👋!
 
-I am Zonghan Li, a master’s student studying *Environmental Social Science* at **Tsinghua University** under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from **China University of Petroleum**. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia). 
+I am Zonghan Li, a master’s student studying *Environmental System Analysis* at **Tsinghua University** under the supervision of Professor Yi Liu. I earned my Bachelor’s degree in *Energy Economics* from **China University of Petroleum**. I also collaborate closely with Professor Kaiping Peng (Tsinghua Department of Psychology & Cognitive Sciences) and Dr. Jiang Bian (Microsoft Research Asia). 
 
 My research interests span 👤human behavior simulation, 🤖artificial intellgence, and 🌍environmental system analysis. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 
 Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save ~20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua.
+
+I am honored to have been admitted to the University of Toronto, starting in September 2025, and to be joining the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant.
 
 # 📰 News
 - **May 2025** 🎓 **Passed the master thesis defense!🎉**
@@ -42,9 +44,12 @@ Currently, I am developing a Retrieval-Augmented Generation platform based on la
 
 **Zonghan Li**, Song Tong, Chunyan Wang, Yi Liu, Kaiping Peng
 
-- Sumbitted to *Nature Communications*. [ArXiv Preprint](https://arxiv.org/abs/2503.11531) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
+- Sumbitted to *Computers in Human Behavior*. [ArXiv Preprint](https://arxiv.org/abs/2503.11531) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
 </div>
 </div>
+
+
+## 📚 Published
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,8 +74,6 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 </div>
 </div>
 
-
-## 📚 Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/clrs2025-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

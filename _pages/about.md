@@ -58,7 +58,7 @@ I am honored to have been admitted to the University of Toronto, starting in Sep
 
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
 
-- Under review at *Environmental Impact Assessment Review*. [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
+- *Environmental Impact Assessment Review*. [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
 </div>
 
@@ -70,7 +70,7 @@ I am honored to have been admitted to the University of Toronto, starting in Sep
 
 Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
 
-- Under major revision at *Resources, Environment and Sustainability*.
+- *Resources, Environment and Sustainability*.
 </div>
 </div>
 

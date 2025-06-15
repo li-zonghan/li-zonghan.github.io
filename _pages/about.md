@@ -25,9 +25,10 @@ My research interests span 👤human behavior simulation, 🤖artificial intellg
 
 Currently, I am developing a Retrieval-Augmented Generation platform based on large language models to encourage energy and water conservation behaviors on university campuses. This platform has already helped students save ~20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua.
 
-I am honored to have been admitted to the University of Toronto, starting in September 2025, and to be joining the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant.
+I am honored to have been admitted to the **University of Toronto**, starting in September 2025, and to be joining the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant.
 
 # 📰 News
+- **June 2025** 🇨🇦 Honored to join the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant!
 - **May 2025** 🎓 **Passed the master thesis defense!🎉**
 - **May 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
 - **March 2025** 📑 Posted a preprint on *Potential of promoting daily water and energy conservation with large language model-powered nudging* to arXiv. 
@@ -134,6 +135,7 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
 </div>
 
 # 🎖 Selected Honors and Awards
+- *2025.06* Outstanding Graduate of Beijing. 
 - *2024.11* National Scholarship for Master's Student (Top 1%).  
 - *2023.11* National Scholarship for Master's Student (Top 1%).  
 - *2022.11* Outstanding Undergraduate Thesis of Beijing.  
@@ -146,9 +148,10 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
 - *2019.12* China Petroleum & Chemical Corporation Scholarship (Top 2%).
 
 # 🎓 Educations
-- *2022.08 - 2025.06 (exp.)*, Master, School of Environment, Tsinghua University, Beijing, China.   
-- *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, China University of Petroleum-Beijing, Beijing, China.
-- *2021.09 - 2022.01*, Semester exchange, School of Business, University of Dundee, Dundee, UK.
+- *2025.09 - 2029.06 (exp.)*, PhD, Department of Applied Psychology and Human Development, **University of Toronto**, ON, Canada.
+- *2022.08 - 2025.06*, Master, School of Environment, **Tsinghua University**, Beijing, China.   
+- *2018.08 - 2022.06*, Undergraduate, School of Economics and Management, **China University of Petroleum-Beijing**, Beijing, China.
+- *2021.09 - 2022.01*, Semester exchange, School of Business, **University of Dundee**, Dundee, UK.
 
 # 🧑‍🏫 Teaching Experience
 - Teaching Assistant
@@ -175,4 +178,4 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
 
-*Last update: Jan 15, 2025*
+*Last update: Jun 15, 2025*

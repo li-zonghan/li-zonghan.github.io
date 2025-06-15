@@ -62,7 +62,7 @@ Spatiotemporal analysis of neighborhood noise complaints and related factors: A 
 
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
 
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*, 2025.
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*, 2025 (IF = 9.8).
 
 - [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
@@ -74,7 +74,7 @@ Spatiotemporal analysis of neighborhood noise complaints and related factors: A 
 
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
 
-Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025.
+Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (IF = 12.4).
 </div>
 </div>
 
@@ -83,7 +83,7 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Reso
 
 [A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252)
 
-Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025.
+Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025 (IF = 3.7).
 </div>
 </div>
 
@@ -92,7 +92,7 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 
-**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024.
+**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024 (IF = 11.4).
 - Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). [Slides](https://cloud.tsinghua.edu.cn/f/5aafa8e134ff44ae807f/) available.
 </div>
 </div>
@@ -102,7 +102,7 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
 
-Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu. *Water Research*, 2023.  
+Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu. *Water Research*, 2023 (IF = 12.8).  
 - Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/107457.htm).
 </div>
 </div>
@@ -112,7 +112,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 
 [A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
 
-**Zonghan Li**, Chunyan Wang, Yi Liu. *Scientific Data*, 2023.  
+**Zonghan Li**, Chunyan Wang, Yi Liu. *Scientific Data*, 2023 (IF = 9.8).  
 - Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).
 - The dataset could be downloaded from [*figshare*](https://doi.org/10.6084/m9.figshare.c.6234957.v1) for free.
 </div>
@@ -123,7 +123,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 
 [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084). 
 
-**Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022.
+**Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022 (IF = 5.2).
 - Supported by the National-level Student Research Training Project: Global Energy Prospective.
 </div>
 </div>
@@ -133,7 +133,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
   
 [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  
 
-Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021.
+Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021 (IF = 5.0).
 </div>
 </div>
 

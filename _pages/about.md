@@ -55,7 +55,7 @@ Spatiotemporal analysis of neighborhood noise complaints and related factors: A 
 
 Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
 
-- Under review (after major revision) at *Building and Environment*.
+- Under review (after major revision) at *Building and Environment* (IF = 7.1).
 </div>
 
 
@@ -66,9 +66,9 @@ Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
 
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
 
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*, 2025.
 
-- *Environmental Impact Assessment Review*. [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
+- [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
 </div>
 
@@ -78,9 +78,7 @@ Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
 
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
 
-Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang
-
-- *Resources, Environment and Sustainability*.
+Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025.
 </div>
 </div>
 

@@ -50,14 +50,10 @@ I am honored to have been admitted to the **University of Toronto**, starting in
 </div>
 
 <div class='paper-box-text' markdown="1">
-
-Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China. 
-
-Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
-
+Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China. Authors: Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
 - Under review (after major revision) at *Building and Environment* (IF = 7.1).
 </div>
-
+</div>
 
 ## 📚 Published
 

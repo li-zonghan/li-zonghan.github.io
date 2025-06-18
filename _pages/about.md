@@ -23,7 +23,7 @@ I am Zonghan Li, an incoming PhD student and research assistant at the [Psychome
 
 My research interests span 👤 human behavior simulation, 🤖 artificial intellgence, and 🌍 environmental system analysis. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 
-For my master's studies, I mainly developed a Retrieval-Augmented Generation platform to provide energy and water conservation behavioral intervention through large language models. This platform has already helped students save ~20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua.
+For my master's studies, I mainly developed a Retrieval-Augmented Generation platform to provide energy and water conservation behavioral intervention through large language models. This platform has already helped students save ~20% on electricity and water use in their dormitories.
 
 # 📰 News
 - **June 2025** 🇨🇦 Honored to join the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant!

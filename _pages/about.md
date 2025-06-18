@@ -61,7 +61,7 @@ Spatiotemporal analysis of neighborhood noise complaints and related factors: A 
 
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
 
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*, 2025 (IF = 9.8).
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*, 2025 (IF = 11.2).
 
 - [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
@@ -82,7 +82,7 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Reso
 
 [A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252)
 
-Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025 (IF = 3.7).
+Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025 (IF = 5.3).
 </div>
 </div>
 

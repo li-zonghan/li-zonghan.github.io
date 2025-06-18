@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zonghan Li 李宗瀚"
-description              : "A Master's student at THU."
+description              : "PhD student | Behavioral researcher."
 repository               : "lzh3278/lzh3278.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zonghan Li"
   avatar           : "images/Pic.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "University of Toronto"
+  location         : "Ontario, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=v66rmnsAAAAJ"

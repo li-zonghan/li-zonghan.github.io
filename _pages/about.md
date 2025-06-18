@@ -25,8 +25,6 @@ My research interests span 👤 human behavior simulation, 🤖 artificial intel
 
 For my master's studies, I mainly developed a Retrieval-Augmented Generation platform to provide energy and water conservation behavioral intervention through large language models. This platform has already helped students save ~20% on electricity and water use in their dormitories, and it has strong official backing from Tsinghua.
 
-Please feel free to reach out for any possible collbration.
-
 # 📰 News
 - **June 2025** 🇨🇦 Honored to join the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant!
 - **May 2025** 🎓 **Passed the master thesis defense!🎉**
@@ -49,25 +47,26 @@ Please feel free to reach out for any possible collbration.
 </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China. Authors: Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
-- Under review (after major revision) at *Building and Environment* (IF = 7.1).
-</div>
-
-## 📚 Published
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
 
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*, 2025 (IF = 11.2).
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. 
+
+- Under minor revision for *Environmental Impact Assessment Review* (IF = 11.2).
 
 - [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
 </div>
 
+<div class='paper-box-text' markdown="1">
+Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China. Authors: Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
+- Under review (after major revision) at *Building and Environment* (IF = 7.1).
+</div>
 
+## 📚 Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban water system</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! Thanks for stopping by👋!
 
-I am Zonghan Li, an incoming PhD student and research assistant at the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members), the University of Toronto. I recieved my M.S. degree in Environmental System Engineering from Tsinghua University, and earned my B.Econ. degree in Applied Economics from **China University of Petroleum**.
+I am Zonghan Li, an incoming PhD student and research assistant at the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members), the University of Toronto. I recieved my M.S. degree in Environmental System Engineering from Tsinghua University, and earned my B.Econ. degree in Applied Economics from China University of Petroleum.
 
 My research interests span 👤 human behavior simulation, 🤖 artificial intellgence, and 🌍 environmental system analysis. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
 

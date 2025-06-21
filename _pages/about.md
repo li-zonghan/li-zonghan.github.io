@@ -62,7 +62,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 
 <div class='paper-box-text' markdown="1">
 Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China. Authors: Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
-- Under review (after major revision) at *Building and Environment* (IF = 7.1).
+- Under review (after major revision) at *Building and Environment* (IF = 7.8).
 </div>
 
 ## 📚 Published

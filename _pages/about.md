@@ -51,13 +51,12 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<u>Balancing act: How community measures shape environmental risk perception and behaviour</u>
+<u>Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic</u>
 
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. 
 
 - Under minor revision for *Environmental Impact Assessment Review* (IF = 11.2).
 
-- [Poster](https://cloud.tsinghua.edu.cn/f/8504061173b340448825/) and [abstract](https://cloud.tsinghua.edu.cn/f/10d8a78b00c8451e9ee4/) available.
 </div>
 </div>
 
@@ -72,7 +71,7 @@ Spatiotemporal analysis of neighborhood noise complaints and related factors: A 
 
 <u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
 
-Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (IF = 12.4).
+Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (IF = 7.8).
 </div>
 </div>
 

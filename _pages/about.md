@@ -48,24 +48,17 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 </div>
 
 
+## 📚 Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <u>Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic</u>
 
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. 
-
-- Under minor revision for *Environmental Impact Assessment Review* (IF = 11.2).
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review* (IF = 11.2).
 
 </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China. Authors: Hao Wu, Yi Liu, Chunyan Wang, **Zonghan Li**, Chengxiang Zhuge.
-- Under review (after major revision) at *Building and Environment* (IF = 7.8).
-</div>
-
-## 📚 Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban water system</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,6 +79,15 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/npjcleanwater2024-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental social science</div><img src='images/noise-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<u>Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China.</u> 
+
+Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and Environment*, 2025 (IF = 7.6).
+
+</div>
+</div>
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 

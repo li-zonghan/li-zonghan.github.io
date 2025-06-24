@@ -181,4 +181,4 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
 
-*Last update: Jun 15, 2025*
+*Last update: Jun 24, 2025*

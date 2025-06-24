@@ -52,7 +52,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<u>Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic</u>
+[Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic](https://doi.org/10.1016/j.eiar.2025.108062)
 
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review* (IF = 11.2).
 
@@ -62,7 +62,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban water system</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<u>Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030</u> 
+[Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030](https://doi.org/10.1016/j.resenv.2025.100244)
 
 Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (IF = 7.8).
 </div>
@@ -80,7 +80,8 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental social science</div><img src='images/noise-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<u>Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China.</u> 
+  
+[Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China](https://doi.org/10.1016/j.buildenv.2025.113332)
 
 Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and Environment*, 2025 (IF = 7.6).
 

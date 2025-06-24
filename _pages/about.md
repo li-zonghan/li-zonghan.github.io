@@ -77,8 +77,6 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/npjcleanwater2024-result.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental social science</div><img src='images/noise-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,6 +86,9 @@ Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and En
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/npjcleanwater2024-result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
 

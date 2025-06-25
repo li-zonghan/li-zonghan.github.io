@@ -26,7 +26,7 @@ My research interests span 👤 human behavior simulation, 🤖 artificial intel
 For my master's studies, I mainly developed a Retrieval-Augmented Generation platform to provide energy and water conservation behavioral intervention through large language models. This platform has already helped students save ~20% on electricity and water use in their dormitories.
 
 # 📰 News
-- **June 2025** 📑 Published three environmental social science-related research articles on *Environmental Impact Assessment Review*, *Resources, Environment and Sustainability*, and *Building and Environment*.
+- **June 2025** 📑 Published three environmental social science-related research articles on *Environmental Impact Assessment Review* (IF = 11.2), *Resources, Environment and Sustainability* (IF = 7.8), and *Building and Environment* (IF = 7.6).
 - **June 2025** 🇨🇦 Honored to join the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant!
 - **May 2025** 🎓 **Passed the master thesis defense!🎉**
 - **May 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.

@@ -26,6 +26,7 @@ My research interests span 👤 human behavior simulation, 🤖 artificial intel
 For my master's studies, I mainly developed a Retrieval-Augmented Generation platform to provide energy and water conservation behavioral intervention through large language models. This platform has already helped students save ~20% on electricity and water use in their dormitories.
 
 # 📰 News
+- **June 2025** 📑 Published three environmental social science-related research articles on *Environmental Impact Assessment Review*, *Resources, Environment and Sustainability*, and *Building and Environment*.
 - **June 2025** 🇨🇦 Honored to join the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant!
 - **May 2025** 🎓 **Passed the master thesis defense!🎉**
 - **May 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
@@ -182,4 +183,4 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
 
-*Last update: Jun 24, 2025*
+*Last update: Jun 25, 2025*

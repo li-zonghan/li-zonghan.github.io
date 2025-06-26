@@ -60,7 +60,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enviornmental social science</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030](https://doi.org/10.1016/j.resenv.2025.100244)
@@ -120,7 +120,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enviornmental social science</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084). 
@@ -130,7 +130,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Enviornmental social science</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  

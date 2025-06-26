@@ -38,7 +38,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 # 📖 Publications 
 
 ## 📚 Under Review / Submitted
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x LLM</div><img src='images/llm-nudge-questionnaire-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI for decision-making</div><img src='images/llm-nudge-questionnaire-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <u>Promoting daily water and energy conservation with large language model-powered nudges</u> 
 
@@ -50,7 +50,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 
 
 ## 📚 Published
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Behavior decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic](https://doi.org/10.1016/j.eiar.2025.108062)
@@ -60,7 +60,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban water system</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability</div><img src='images/uws-carbon-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030](https://doi.org/10.1016/j.resenv.2025.100244)
@@ -69,7 +69,7 @@ Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Reso
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/clrs2025-result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI for decision-making</div><img src='images/clrs2025-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252)
@@ -89,7 +89,7 @@ Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and En
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/npjcleanwater2024-result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI for decision-making</div><img src='images/npjcleanwater2024-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
@@ -99,7 +99,7 @@ Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and En
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/watres2023-new.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI for decision-making</div><img src='images/watres2023-new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
@@ -109,7 +109,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consumption behavior x Machine learning</div><img src='images/SciData2023-result.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI for decision-making</div><img src='images/SciData2023-result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
@@ -120,7 +120,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy system x COVID-19</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability</div><img src='images/jepe2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084). 
@@ -130,7 +130,7 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Policy evaluation</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainability</div><img src='images/espr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3).  

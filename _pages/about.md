@@ -79,7 +79,7 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental social science</div><img src='images/noise-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental social science</div><img src='images/noise-2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China](https://doi.org/10.1016/j.buildenv.2025.113332)

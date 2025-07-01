@@ -53,7 +53,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decision-making</div><img src='images/covid-concept.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic](https://doi.org/10.1016/j.eiar.2025.108062)
+[Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic](https://authors.elsevier.com/c/1lL5aiZ5tKVbc)
 
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review* (IF = 11.2).
 
@@ -82,7 +82,7 @@ Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsibl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental social science</div><img src='images/noise-2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China](https://doi.org/10.1016/j.buildenv.2025.113332)
+[Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China](https://authors.elsevier.com/c/1lL5E_8C3xxZ1B)
 
 Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and Environment*, 2025 (IF = 7.6).
 

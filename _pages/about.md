@@ -171,6 +171,7 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
   - *Journal of Cleaner Production* 
   - *iScience*
   - *International Journal of Electrical Power & Energy Systems*
+  - *Technological Forecasting & Social Change*
 
 ## Social Work
   - Academic-related works:
@@ -184,4 +185,4 @@ Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Envi
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
 
-*Last update: Jun 25, 2025*
+*Last update: Jul 8, 2025*

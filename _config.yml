@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zonghan Li 李宗瀚"
-description              : "PhD student | Behavioral researcher."
+title                    : "Zonghan Li"
+description              : "PhD student | Generative AI & Behavioral researcher."
 repository               : "li-zonghan/li-zonghan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-0253-0139"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

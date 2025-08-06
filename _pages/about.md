@@ -19,16 +19,17 @@ redirect_from:
 
 Hello! Thanks for stopping by👋!
 
-I am Zonghan Li, an incoming PhD student and research assistant at the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members), the University of Toronto. I recieved my M.S. degree in Engineering from Tsinghua University, and earned my B.Econ. degree in Applied Economics from China University of Petroleum.
+I am Zonghan Li, a PhD student and research assistant at the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members), the University of Toronto. I recieved my M.S. degree in Engineering from Tsinghua University, and earned my B.Econ. degree in Applied Economics from China University of Petroleum.
 
-My research interests span 👤 human behavior simulation, 🤖 artificial intellgence, and 🌍 environmental system analysis. To address these topics, I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments.
+My research interests span 👤 behavioral intervention, 💻 human-computer interaction and 🤖 artificial intellgence, mainly focusing on their applications on mental health-related and pro-environmental behaviors. I mainly use machine learning, statistical causal inference, large language models, structural equation modeling, as well as field surveys and experiments for my research.
 
 For my master's studies, I mainly developed a Retrieval-Augmented Generation platform to provide energy and water conservation behavioral intervention through large language models. This platform has already helped students save ~20% on electricity and water use in their dormitories.
 
+I'm always looking for related colaboration. If you are interested to chat with me, feel free to drop me an [email](tsinghua@duck.com).
+
 # 📰 News
 - **June 2025** 📑 Published three environmental social science-related research articles on *Environmental Impact Assessment Review* (IF = 11.2), *Resources, Environment and Sustainability* (IF = 7.8), and *Building and Environment* (IF = 7.6).
-- **June 2025** 🇨🇦 Honored to join the [Psychometrics and Responsible AI Lab](https://www.feng-ji.org/lab-members) as a PhD student and research assistant!
-- **May 2025** 🎓 **Passed the master thesis defense!🎉**
+- **June 2025** 🎓 **Passed the master thesis defense and graduated from Tsinghua🎉**.
 - **May 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
 - **March 2025** 📑 Posted a preprint on *Potential of promoting daily water and energy conservation with large language model-powered nudging* to arXiv. 
 - **December 2024** 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.

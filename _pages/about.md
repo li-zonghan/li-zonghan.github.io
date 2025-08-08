@@ -29,8 +29,7 @@ I'm always looking for related colaboration. If you are interested to chat with 
 
 # 📰 News
 - **June 2025** 📑 Published three environmental social science-related research articles on *Environmental Impact Assessment Review* (IF = 11.2), *Resources, Environment and Sustainability* (IF = 7.8), and *Building and Environment* (IF = 7.6).
-- **June 2025** 🎓 **Passed the master thesis defense and graduated from Tsinghua🎉**.
-- **May 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
+- **June 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
 - **March 2025** 📑 Posted a preprint on *Potential of promoting daily water and energy conservation with large language model-powered nudging* to arXiv. 
 - **December 2024** 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.
 - **October 2024** 🥇 Awarded **National Scholarship** for two consecutive years (the only master’s student among the 2021–2024 cohorts at School of Environment).
@@ -102,7 +101,10 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 </div>
 </div>
 
-- <div class="badge">Environmental social science</div> [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+- [Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030](https://doi.org/10.1016/j.resenv.2025.100244). Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (IF = 7.8).
+- [A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252). Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025 (IF = 5.3).
+- [Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China](https://authors.elsevier.com/c/1lL5E_8C3xxZ1B). Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and Environment*, 2025 (IF = 7.6).
+- [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021 (IF = 5.0).
 
 # 🎖 Selected Honors and Awards
 - *2025.06* Outstanding Graduate of Beijing. 

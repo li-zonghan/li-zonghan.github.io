@@ -54,8 +54,9 @@ I'm always looking for related colaboration. If you are interested to chat with 
 <div class='paper-box-text' markdown="1">
 
 [Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic](https://authors.elsevier.com/c/1lL5aiZ5tKVbc)
+**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*.
 
-**Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review* (IF = 11.2).
+Journal IF: 11.2
 
 </div>
 </div>
@@ -64,8 +65,10 @@ I'm always looking for related colaboration. If you are interested to chat with 
 <div class='paper-box-text' markdown="1">
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
+**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024.
 
-**Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024 (IF = 11.4).
+Journal IF: 11.4 | Citations: 8
+
 - Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). [Slides](https://cloud.tsinghua.edu.cn/f/5aafa8e134ff44ae807f/) available.
 </div>
 </div>
@@ -74,8 +77,10 @@ I'm always looking for related colaboration. If you are interested to chat with 
 <div class='paper-box-text' markdown="1">
 
 [Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach](https://doi.org/10.1016/j.watres.2023.120733)  
+Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu. *Water Research*, 2023.  
 
-Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi Liu. *Water Research*, 2023 (IF = 12.8).  
+Journal IF: 12.8 | Citations: 16
+
 - Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/107457.htm).
 </div>
 </div>
@@ -84,8 +89,10 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 <div class='paper-box-text' markdown="1">
 
 [A dataset on energy efficiency grade of white goods in mainland China at regional and household levels](https://www.nature.com/articles/s41597-023-02358-x)  
+**Zonghan Li**, Chunyan Wang, Yi Liu. *Scientific Data*, 2023.  
 
-**Zonghan Li**, Chunyan Wang, Yi Liu. *Scientific Data*, 2023 (IF = 9.8).  
+Journal IF: 9.8 | Citations: 6
+
 - Featured in [Tsinghua News](https://www.tsinghua.edu.cn/info/1175/105462.htm).
 - The dataset could be downloaded from [*figshare*](https://doi.org/10.6084/m9.figshare.c.6234957.v1) for free.
 </div>
@@ -95,16 +102,18 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
 <div class='paper-box-text' markdown="1">
 
 [Impact of COVID-19 on energy consumption: A quantitative analysis on electricity](https://doi.org/10.1016/j.ijepes.2022.108084). 
+**Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022.
 
-**Zonghan Li**, Hongkai Ye, Najia Liao, Ruoxi Wang, Yang Qiu, Yumo Wang. *International Journal of Electrical Power and Energy Systems*, 2022 (IF = 5.2).
+Journal IF: 5.2 | Citations: 51
+
 - Supported by the National-level Student Research Training Project: Global Energy Prospective.
 </div>
 </div>
 
-- [Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030](https://doi.org/10.1016/j.resenv.2025.100244). Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (IF = 7.8).
-- [A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252). Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025 (IF = 5.3).
+- [Trajectory, Drivers, and Reduction of Greenhouse Gas Emissions from Urban Water System in China During 1980-2030](https://doi.org/10.1016/j.resenv.2025.100244). Shiyu Pei, **Zonghan Li**, Yi Liu, Chunyan Wang, Shuming Liu, Yujun Huang. *Resources, Environment and Sustainability*, 2025 (Journal IF = 7.8).
+- [A hybrid model of machine learning for classifying household water-consumption behaviors](https://doi.org/10.1016/j.clrc.2025.100252). Miao Wang, **Zonghan Li**, Yi Liu, Lin Lu, Chunyan Wang. *Cleaner and Responsible Consumption*, 2025 (Journal IF = 5.3 | Citations: 1).
 - [Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China](https://authors.elsevier.com/c/1lL5E_8C3xxZ1B). Hao Wu, Chunyan Wang, Yi Liu, **Zonghan Li**, Chengxiang Zhuge. *Building and Environment*, 2025 (IF = 7.6).
-- [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021 (IF = 5.0).
+- [Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing](https://doi.org/10.1007/s11356-021-14727-3). Jianliang Wang, **Zonghan Li**, Hongkai Ye, Yingdan Mei, Jiaxin Fu, Qi Li. *Environmental Science and Pollution Research*, 2021 (Journal IF = 5.0 | Citations: 31).
 
 # 🎖 Selected Honors and Awards
 - *2025.06* Outstanding Graduate of Beijing. 

@@ -54,6 +54,7 @@ I'm always looking for related colaboration. If you are interested to chat with 
 <div class='paper-box-text' markdown="1">
 
 [Balancing act: How community measures shape environmental risk perception and prevention behaviour during the COVID-19 pandemic](https://authors.elsevier.com/c/1lL5aiZ5tKVbc)
+
 **Zonghan Li**, Qiang Zhang, Chunyan Wang, Yi Liu, Fang Zhang, Lei Zhang, Dan Xie. *Environmental Impact Assessment Review*.
 
 </div>
@@ -63,6 +64,7 @@ I'm always looking for related colaboration. If you are interested to chat with 
 <div class='paper-box-text' markdown="1">
 
 [Enhancing the explanation of household water consumption through the water-energy nexus concept](https://www.nature.com/articles/s41545-024-00298-6)
+
 **Zonghan Li**, Chunyan Wang, Yi Liu, Jiangshan Wang. *npj Clean Water*, 2024.
 
 - Awarded **Best Young Scientist Oral Presentation of icRS 2023** (top 2 of all presentations). [Slides](https://cloud.tsinghua.edu.cn/f/5aafa8e134ff44ae807f/) available.

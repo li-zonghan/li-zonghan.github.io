@@ -44,7 +44,7 @@ I'm always looking for related colaboration. If you are interested to chat with 
 
 **Zonghan Li**, Song Tong, Yi Liu, Kaiping Peng, Chunyan Wang, Anna Fensel
 
-- Sumbitted to *Computers in Human Behavior*. [ArXiv Preprint](https://arxiv.org/abs/2503.11531) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
+- Sumbitted to *Applied Energy*. [ArXiv Preprint](https://arxiv.org/abs/2503.11531) and [Poster](https://cloud.tsinghua.edu.cn/f/72cf3e6198484e1983aa/) available.
 </div>
 </div>
 

@@ -152,4 +152,4 @@ Chunyan Wang, **Zonghan Li**, Xiaoyuan Ni, Jiang Bian, Jia Zhang, Wenlei Shi, Yi
   - Voluntary work:
     - *2018.08 - Now*, Volunteer of Beijing Volunteer Service Federation. Total service duration: 678 hours
 
-*Last update: Jul 8, 2025*
+*Last update: Aug 8, 2025*

@@ -28,7 +28,7 @@ For my master's studies, I mainly developed a Retrieval-Augmented Generation pla
 I'm always looking for related colaboration. If you are interested to chat with me, feel free to drop me an [email](tsinghua@duck.com).
 
 # 📰 News
-- **June 2025** 📑 Published three environmental social science-related research articles on *Environmental Impact Assessment Review* (IF = 11.2), *Resources, Environment and Sustainability* (IF = 7.8), and *Building and Environment* (IF = 7.6).
+- **June 2025** 📑 Published three peer-reviewed research articles related to environmental social science!
 - **June 2025** 🥇 Awarded **Outstanding Graduate of Beijing**.
 - **March 2025** 📑 Posted a preprint on *Potential of promoting daily water and energy conservation with large language model-powered nudging* to arXiv. 
 - **December 2024** 🎉 Presented my poster on *Mining the potential of large languange models on nudging daily energy and water conservation* at AGU24 in Washington D.C.

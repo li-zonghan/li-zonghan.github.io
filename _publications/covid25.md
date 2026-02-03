@@ -6,7 +6,7 @@ pub:            "Environmental Impact Assessment Review,"
 pub_date:       "2025"
 cover:          /assets/images/covers/covid25.png
 authors:
-- Zonghan Li
+- <b>Zonghan Li</b>
 - Qiang Zhang
 - Chunyan Wang
 - Fang Zhang

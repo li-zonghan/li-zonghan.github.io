@@ -5,7 +5,7 @@ navbar_name: "Zonghan Li"
 positions:
 - name: PhD Student
 - name: University of Toronto
-  logo: /assets/images/badges/UofT.png  # Logo is optional
+  logo: /assets/images/badges/UofT_white.png  # Logo is optional
 
 
 email: "zonghan.li@outlook.com"
@@ -36,7 +36,7 @@ portrait_caption: >-
 
 education:
 - name: University of Toronto
-  logo: /assets/images/badges/UofT.png
+  logo: /assets/images/badges/UofT_white.png
   position: >- 
     Department of Applied Psychology and Human Development <br/>
     Ph.D. Student

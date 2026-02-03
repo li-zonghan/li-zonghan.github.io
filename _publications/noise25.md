@@ -4,7 +4,7 @@ date:           2025-06-23 00:01:00 +0800
 selected:       false
 pub:            "Building and Environment,"
 pub_date:       "2025"
-cover:          /assets/images/covers/noise25.jpg
+cover:          /assets/images/covers/noise25.png
 authors:
   - Hao Wu
   - Chunyan Wang

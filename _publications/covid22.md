@@ -4,7 +4,7 @@ date:           2022-02-22 00:01:00 +0800
 selected:       false
 pub:            "International Journal of Electrical Power & Energy Systems,"
 pub_date:       "2022"
-cover:          /assets/images/covers/covid22.jpg
+cover:          /assets/images/covers/covid22.png
 authors:
   - <b>Zonghan Li</b>
   - Hongkai Ye

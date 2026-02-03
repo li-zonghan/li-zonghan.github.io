@@ -4,7 +4,7 @@ date:           2025-06-09 00:01:00 +0800
 selected:       false
 pub:            "Resources, Environment and Sustainability,"
 pub_date:       "2025"
-cover:          /assets/images/covers/UWS25.jpg
+cover:          /assets/images/covers/UWS25.png
 authors:
   - Shiyu Pei
   - <b>Zonghan Li</b>

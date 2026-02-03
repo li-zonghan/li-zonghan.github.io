@@ -4,7 +4,7 @@ date:           2025-01-08 00:01:00 +0800
 selected:       false
 pub:            "Cleaner and Responsible Consumption,"
 pub_date:       "2025"
-cover:          /assets/images/covers/hhWEN25.jpg
+cover:          /assets/images/covers/hhWEN25.png
 authors:
   - Miao Wang
   - <b>Zonghan Li</b>

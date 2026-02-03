@@ -1,5 +1,5 @@
 ---
-title:          "Enhancing nudges with LLM-generated prescriptive content: An experimental vignette study of behavioral intentions"
+title:          "[Working paper] Enhancing nudges with LLM-generated prescriptive content: An experimental vignette study of behavioral intentions"
 date:           2026-01-02 00:01:00 +0800
 selected:       true
 pub:            Submitted to "Computers in Human Behavior"

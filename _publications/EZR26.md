@@ -1,6 +1,6 @@
 ---
 title:          "[Working paper] The integrated environmental zoning-based regulation may further enhance sustainable development in China"
-date:           2026-01-01 00:01:00 +0800
+date:           2026-01-02 00:00:00 +0800
 selected:       true
 pub:            "Under review at Nature Communications"
 pub_date:       "2026"

@@ -4,7 +4,7 @@ date:           2021-06-01 00:01:00 +0800
 selected:       false
 pub:            "Environmental Science and Pollution Research,"
 pub_date:       "2021"
-cover:          /assets/images/covers/CtG21.jpg
+cover:          /assets/images/covers/CtG21.png
 authors:
   - Jianliang Wang
   - <b>Zonghan Li</b>

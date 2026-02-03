@@ -35,16 +35,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Toronto
+  logo: /assets/images/badges/UofT.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Applied Psychology and Human Development <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2025 - present
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: M.Sc. in Environmental System Analysis
+  date: Sep. 2022 - Jul. 2025
+- name: China University of Petroleum
+  logo: /assets/images/badges/CUP.png
+  position: B.Econ. in Applied Economics
+  date: Sep. 2018 - Jul. 2022
 
 # experience:
 # - name: Peking University

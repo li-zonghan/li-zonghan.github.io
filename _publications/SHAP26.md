@@ -1,6 +1,6 @@
 ---
 title:          "[Working paper] Unlocking the black box: A tutorial on using SHAP for interpretable machine learning in psychological research"
-date:           2026-01-01 00:00:59 +0800
+date:           2026-01-01 23:23:59 +0800
 selected:       false
 pub:            "Submitted to Advances in Methods and Practices in Psychological Science,"
 pub_date:       "2026"

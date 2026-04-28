@@ -1,0 +1,158 @@
+group_name: "GenAI and Human Behavior"
+description: >-
+  A part of the Psychometric and Responsible AI Lab at the University of Toronto.
+
+lead:
+  name: "Zonghan Li"
+  role: "PhD Student, University of Toronto"
+  note: "I collaborate with RA students on GenAI and human behavior projects."
+
+current_member:
+  - name: "Xinyi He"
+    role: "Collaborator"
+    title: "PhD student (BNU)"
+    project: "AI for social science research"
+    short_bio: "PhD candidate, Beijing Normal University"
+    personal_keywords:
+      - "Psychometrics"
+      - "Online communities"
+      - "AI in education"
+    bio: "I am a grad student in the Faculty of Education at Beijing Normal University. My previous research primarily focused on teacher online communities, where I employed network analysis to study community structures, social capital, and knowledge-sharing behaviors. I am currently a visiting student at the University of Toronto for the Fall 2025/Winter 2026 semesters. I am keenly interested in exploring how novel AI methods can be applied to investigate online community behaviors, particularly the knowledge-sharing dynamics among teachers. I am also interested in AI algorithms and tools designed to promote and enhance knowledge sharing between teachers."
+    photo: "/assets/images/photos/xinyi.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
+
+  - name: "Zhiwei Li"
+    role: "Collaborator"
+    title: "Assistant Professor (CUPL)"
+    project: "AI for social science research"
+    short_bio: "Assistant Professor, China University of Politics and Law"
+    personal_keywords:
+      - "Empirical studies"
+      - "Governance"
+      - "Causal inference"
+    bio: "Zhiwei Li is an Assistant Professor at China University of Political Science and Law. His research spans corruption and anti-corruption governance, criminal law, and legal empirical studies, with a focus on the rule-of-law boundaries of supervisory power, the criminal governance of new and covert forms of corruption, the application and limits of digital technology in discipline inspection and supervision, and causal inference with large-scale judicial data."
+    photo: "/assets/images/photos/zhiwei.png"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
+      
+  - name: "Xinyu Song"
+    role: "Collaborator"
+    title: "Master's student (U of T)"
+    project: "AI for social science research"
+    short_bio: "PhD student, UofT"
+    personal_keywords:
+      - "Machine learning"
+      - "Feature selection"
+      - "GenAI in education"
+    bio: "Xinyu Song is currently pursuing a Master of Engineering in Electrical and Computer Engineering at the University of Toronto. Her research interests include Applications of AI, machine learning, AI compiler development, and unsupervised feature selection. She worked as an AI Compiler intern at AMD, and proposed an unsupervised feature selection algorithm."
+    photo: "/assets/images/photos/xinyu.png"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: "https://www.linkedin.com/in/xinyu-song-281830311/"
+      email: ""
+      website: ""
+
+  - name: "Hanzhang Wang"
+    role: "Collaborator"
+    title: "PhD student (UC Berkeley)"
+    project: "Causal machine learning"
+    short_bio: "PhD student, UC Berkeley"
+    personal_keywords:
+      - "Causal inference"
+      - "Information design"
+    bio: "Hanzhang is a PhD student at the School of Engineering, UC Berkeley."
+    photo: "/assets/images/photos/hanzhang.png"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: "https://www.linkedin.com/in/hanzhang-wang-8a0273349/"
+      email: ""
+      website: ""
+
+  - name: "Yunuo Li"
+    role: "Research Assistant"
+    title: "Master's student (U of T)"
+    start: "April 2026"
+    project: "GenAI for human behavior simulation"
+    short_bio: "Master's student, UofT<br>Applied Psychology and Human Development"
+    personal_keywords:
+      - "Behavioral simulation"
+    bio: "Yunuo is a master's student at the Department of Applied Psychology and Human Development, the University of Toronto."
+    photo: "/assets/images/photos/default-female.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: "https://www.linkedin.com/in/yunuo-li-b14392208/"
+      email: ""
+      website: ""
+
+  - name: "Zhixun Yan"
+    role: "Research Assistant"
+    title: "Master's student (U of T)"
+    start: "Feb 2026"
+    project: "GenAI for human behavior simulation"
+    short_bio: "Master's student, UofT<br>Applied Psychology and Human Development"
+    personal_keywords:
+      - "Behavioral simulation"
+    bio: "Zhixun is a master's student at the Department of Applied Psychology and Human Development, the University of Toronto. She works on using LLMs to model behavioral responses in social science settings."
+    photo: "/assets/images/photos/zhixun.png"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: "https://www.linkedin.com/in/zhixun-yan-02632239a/"
+      email: ""
+      website: ""
+
+  - name: "Laurence Yang"
+    role: "Research Assistant"
+    title: "Undergraduate student (U of T)"
+    start: "Feb 2026"
+    project: "AI for social science research"
+    short_bio: "Undergraduate student, UofT<br>Computer Science, Sociology"
+    personal_keywords:
+      - "Psychometrics"
+    bio: "Laurence is currently a undergraduate student at the University of Toronto, majoring in computer science and minoring in economics and politics."
+    photo: "/assets/images/photos/laurence.png"
+    links:
+      scholar: ""
+      github: "https://github.com/LaurentiusY?tab=repositories"
+      linkedin: "https://www.linkedin.com/in/laurence-yang-2449352b2/"
+      email: ""
+      website: ""
+  
+  - name: "Tianyi Zhao"
+    role: "Research Assistant"
+    title: "Undergraduate student (U of T)"
+    start: "May 2026"
+    project: "GenAI for personalized intervention design"
+    short_bio: "Undergraduate student, UofT<br>Sociology, Statistics"
+    personal_keywords:
+      - "Statistical modeling"
+      - "Personalized intervention"
+    bio: "Tianyi is a second-year undergraduate student at the University of Toronto, majoring in Statistics and Sociology. Her academic interests lie broadly in statistical modeling, data analysis, and their applications to real-world problems, particularly in using quantitative approaches to understand society. "
+    photo: "/assets/images/photos/tianyi.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
+
+alumni_member: []
+
+join:
+  email: "zonghan.li@outlook.com"
+  topics:
+    - "Generative AI and human behavior"
+    - "Human-AI interaction"
+    - "Causal machine learning"

@@ -1,0 +1,219 @@
+---
+layout: default
+title: Team
+navbar_title: Team
+---
+
+<div class="row team-page">
+  <div class="col-12">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="mb-2">{{ site.data.team.group_name }}</h1>
+        <p class="team-subtitle mb-2">{{ site.data.team.description }}</p>
+        <p class="mb-4"><strong>Lead:</strong> {{ site.data.team.lead.name }} ({{ site.data.team.lead.role }})</p>
+      </div>
+    </div>
+
+    <section id="current-members">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="pt-2 mb-3">Current Members</h2>
+        </div>
+      </div>
+    </section>
+
+    <section id="research-assistants">
+      <div class="row">
+        <div class="col-12">
+          <h3 class="h4 mb-3">Research Assistants</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        {% for member in site.data.team.current_member %}
+        {% assign role_down = member.role | downcase %}
+        {% if role_down contains "assistant" or role_down == "ra" %}
+        {% assign member_slug = member.slug | default: member.name | slugify %}
+        {% assign member_short_bio = member.bio %}
+        {% if member.short_bio and member.short_bio != "" %}
+        {% assign member_short_bio = member.short_bio %}
+        {% endif %}
+        {% assign member_short_bio_parts = member_short_bio | split: '<br>' %}
+        <div class="col-12 col-md-6 col-lg-3 mb-4 team-member-anchor" id="member-{{ member_slug }}">
+          <div class="team-card people-profile-card h-100 shadow-sm bg-white rounded-xl">
+            {% if site.data.display.team.show_profile_page %}
+            <a href="{{ '/team/' | append: member_slug | append: '/' | relative_url }}">
+              <img src="{{ member.photo | relative_url }}" alt="{{ member.name }}" class="team-photo" loading="lazy" />
+            </a>
+            {% else %}
+            <img src="{{ member.photo | relative_url }}" alt="{{ member.name }}" class="team-photo" loading="lazy" />
+            {% endif %}
+            <div class="team-card-body">
+              <h4 class="h5 mb-2">
+                {% if site.data.display.team.show_profile_page %}
+                <a href="{{ '/team/' | append: member_slug | append: '/' | relative_url }}">{{ member.name }}</a>
+                {% else %}
+                {{ member.name }}
+                {% endif %}
+              </h4>
+              <p class="mb-2 team-short-bio">
+                <span class="team-short-bio-primary">{{ member_short_bio_parts[0] }}</span>
+                {% if member_short_bio_parts.size > 1 %}
+                <span class="team-short-bio-secondary">{{ member_short_bio_parts[1] | strip }}</span>
+                {% endif %}
+              </p>
+
+              {% if site.data.display.team.show_project and member.project and member.project != "" %}
+              <p class="team-project mb-2"><i class="fas fa-flask"></i> {{ member.project }}</p>
+              {% endif %}
+
+              {% if site.data.display.team.show_keywords %}
+              <div class="mb-2 team-keywords">
+                {% if member.personal_keywords and member.personal_keywords.size > 0 %}
+                {% for tag in member.personal_keywords %}
+                <span class="team-tag">{{ tag }}</span>
+                {% endfor %}
+                {% elsif member.interests and member.interests.size > 0 %}
+                {% for tag in member.interests %}
+                <span class="team-tag">{{ tag }}</span>
+                {% endfor %}
+                {% endif %}
+              </div>
+              {% endif %}
+
+              {% assign member_github = member.links.github %}
+              {% assign member_linkedin = member.links.linkedin | default: member.links.Linkedin %}
+              {% if member_github and member_github != "" or member_linkedin and member_linkedin != "" %}
+              <div class="team-links mb-0" aria-label="Profile links">
+                {% if member_github and member_github != "" %}
+                <a href="{{ member_github }}" target="_blank" rel="noopener" aria-label="GitHub">
+                  <i class="fab fa-github"></i>
+                </a>
+                {% endif %}
+                {% if member_linkedin and member_linkedin != "" %}
+                <a href="{{ member_linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">
+                  <i class="fab fa-linkedin"></i>
+                </a>
+                {% endif %}
+              </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+
+    <section id="peer-collaborators">
+      <div class="row mt-2">
+        <div class="col-12">
+          <h3 class="h4 mb-3">Peer Collaborators</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        {% for member in site.data.team.current_member %}
+        {% assign role_down = member.role | downcase %}
+        {% if role_down contains "collaborator" %}
+        {% assign member_slug = member.slug | default: member.name | slugify %}
+        {% assign member_short_bio = member.bio %}
+        {% if member.short_bio and member.short_bio != "" %}
+        {% assign member_short_bio = member.short_bio %}
+        {% endif %}
+        {% assign member_short_bio_parts = member_short_bio | split: '<br>' %}
+        <div class="col-12 col-md-6 col-lg-3 mb-4 team-member-anchor" id="member-{{ member_slug }}">
+          <div class="team-card people-profile-card h-100 shadow-sm bg-white rounded-xl">
+            {% if site.data.display.team.show_profile_page %}
+            <a href="{{ '/team/' | append: member_slug | append: '/' | relative_url }}">
+              <img src="{{ member.photo | relative_url }}" alt="{{ member.name }}" class="team-photo" loading="lazy" />
+            </a>
+            {% else %}
+            <img src="{{ member.photo | relative_url }}" alt="{{ member.name }}" class="team-photo" loading="lazy" />
+            {% endif %}
+            <div class="team-card-body">
+              <h4 class="h5 mb-2">
+                {% if site.data.display.team.show_profile_page %}
+                <a href="{{ '/team/' | append: member_slug | append: '/' | relative_url }}">{{ member.name }}</a>
+                {% else %}
+                {{ member.name }}
+                {% endif %}
+              </h4>
+              <p class="mb-2 team-short-bio">
+                <span class="team-short-bio-primary">{{ member_short_bio_parts[0] }}</span>
+                {% if member_short_bio_parts.size > 1 %}
+                <span class="team-short-bio-secondary">{{ member_short_bio_parts[1] | strip }}</span>
+                {% endif %}
+              </p>
+
+              {% if site.data.display.team.show_project and member.project and member.project != "" %}
+              <p class="team-project mb-2"><i class="fas fa-flask"></i> {{ member.project }}</p>
+              {% endif %}
+
+              {% if site.data.display.team.show_keywords %}
+              <div class="mb-2 team-keywords">
+                {% if member.personal_keywords and member.personal_keywords.size > 0 %}
+                {% for tag in member.personal_keywords %}
+                <span class="team-tag">{{ tag }}</span>
+                {% endfor %}
+                {% elsif member.interests and member.interests.size > 0 %}
+                {% for tag in member.interests %}
+                <span class="team-tag">{{ tag }}</span>
+                {% endfor %}
+                {% endif %}
+              </div>
+              {% endif %}
+
+              {% assign member_github = member.links.github %}
+              {% assign member_linkedin = member.links.linkedin | default: member.links.Linkedin %}
+              {% if member_github and member_github != "" or member_linkedin and member_linkedin != "" %}
+              <div class="team-links mb-0" aria-label="Profile links">
+                {% if member_github and member_github != "" %}
+                <a href="{{ member_github }}" target="_blank" rel="noopener" aria-label="GitHub">
+                  <i class="fab fa-github"></i>
+                </a>
+                {% endif %}
+                {% if member_linkedin and member_linkedin != "" %}
+                <a href="{{ member_linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">
+                  <i class="fab fa-linkedin"></i>
+                </a>
+                {% endif %}
+              </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+
+    {% if site.data.team.alumni_ra and site.data.team.alumni_ra.size > 0 %}
+    <section id="alumni-ras">
+      <div class="row mt-2">
+        <div class="col-12">
+          <h2 class="pt-2 mb-3">Alumni RAs</h2>
+          <div class="bg-white shadow-sm rounded-xl p-3">
+            <ul class="mb-0 pl-4">
+              {% for alumni in site.data.team.alumni_ra %}
+              <li><strong>{{ alumni.name }}</strong> ({{ alumni.period }}){% if alumni.next %} - {{ alumni.next }}{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    {% endif %}
+
+    <section id="join-group">
+      <div class="row mt-4 mb-5">
+        <div class="col-12">
+          <h2 class="pt-2 mb-3">Getting involved</h2>
+          <div class="bg-white shadow-sm rounded-xl p-3 p-md-4">
+            <p class="mb-0">We are accepting motivated RA students. Please reach out via email (either Prof. Ji or Zonghan) if you are interested.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

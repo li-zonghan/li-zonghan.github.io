@@ -1,0 +1,150 @@
+---
+layout: default
+---
+
+{% unless site.data.display.team.show_profile_page %}
+<div class="person-detail-page">
+  <p class="mb-4">
+    <a class="people-back-link" href="{{ '/team/' | relative_url }}"><i class="fas fa-arrow-left mr-2"></i>Team</a>
+  </p>
+  <div class="person-detail-main">
+    <h1>Profile pages are currently hidden</h1>
+  </div>
+</div>
+{% else %}
+
+{% assign person_slug = page.person_slug | default: page.slug %}
+{% assign person_found = false %}
+{% assign person_group = "" %}
+
+{% for member in site.data.team.current_member %}
+{% assign member_slug = member.slug | default: member.name | slugify %}
+{% if member_slug == person_slug %}
+{% assign person = member %}
+{% assign person_found = true %}
+{% assign person_group = "Current Member" %}
+{% endif %}
+{% endfor %}
+
+{% if person_found == false and site.data.team.alumni_member %}
+{% for member in site.data.team.alumni_member %}
+{% assign member_slug = member.slug | default: member.name | slugify %}
+{% if member_slug == person_slug %}
+{% assign person = member %}
+{% assign person_found = true %}
+{% assign person_group = "Alumni" %}
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if person_found %}
+{% assign person_email = person.links.email | default: person.email %}
+{% assign person_title = person.role %}
+{% if person.title and person.title != "" %}
+{% assign person_title = person.title %}
+{% endif %}
+
+<div class="person-detail-page">
+  <p class="mb-4">
+    <a class="people-back-link" href="{{ '/team/#member-' | append: person_slug | relative_url }}"><i class="fas fa-arrow-left mr-2"></i>Team</a>
+  </p>
+
+  <section class="person-detail-hero">
+    <div>
+      <p class="people-kicker mb-2">{{ person_group }}</p>
+      <h1 class="person-detail-name">{{ person.name }}</h1>
+      <p class="person-detail-title">{{ person_title }}</p>
+      <p class="person-detail-role">
+        {{ person.role }}{% if person.start and person.start != "" %} · Since {{ person.start }}{% endif %}
+      </p>
+    </div>
+    <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="person-detail-photo" loading="lazy" />
+  </section>
+
+  <div class="person-detail-grid">
+    <main class="person-detail-main">
+      {% if person.project and person.project != "" %}
+      <h2>Project</h2>
+      <p>{{ person.project }}</p>
+      {% endif %}
+
+      <h2>About</h2>
+      <p>{{ person.bio }}</p>
+
+      {% if person.personal_keywords and person.personal_keywords.size > 0 %}
+      <h2>Personal Keywords</h2>
+      <div class="people-tag-row">
+        {% for tag in person.personal_keywords %}
+        <span class="people-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% elsif person.interests and person.interests.size > 0 %}
+      <h2>Interests</h2>
+      <div class="people-tag-row">
+        {% for tag in person.interests %}
+        <span class="people-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </main>
+
+    <aside class="person-detail-aside">
+      <h2>Contact</h2>
+      {% if person_email and person_email != "" %}
+      <p><a href="mailto:{{ person_email | encode_email }}">{{ person_email | encode_email }}</a></p>
+      {% else %}
+      <p class="text-muted">Contact details coming soon.</p>
+      {% endif %}
+
+      {% if person.links %}
+      <h2>Links</h2>
+      <ul class="person-link-list">
+        {% if person.links.scholar and person.links.scholar != "" %}
+        {%- if person.links.scholar contains 'scholar.google' -%}
+        {%- assign gscholar_url = person.links.scholar -%}
+        {%- else -%}
+        {%- assign gscholar_url = 'https://scholar.google.com/citations?user=' | append: person.links.scholar -%}
+        {%- endif -%}
+        <li><a href="{{ gscholar_url }}" target="_blank" rel="noopener">Google Scholar</a></li>
+        {% endif %}
+
+        {% if person.links.github and person.links.github != "" %}
+        {%- if person.links.github contains 'http' -%}
+        {%- assign github_url = person.links.github -%}
+        {%- else -%}
+        {%- assign github_url = 'https://github.com/' | append: person.links.github -%}
+        {%- endif -%}
+        <li><a href="{{ github_url }}" target="_blank" rel="noopener">GitHub</a></li>
+        {% endif %}
+
+        {% if person.links.linkedin and person.links.linkedin != "" %}
+        {%- if person.links.linkedin contains 'http' -%}
+        {%- assign linkedin_url = person.links.linkedin -%}
+        {%- else -%}
+        {%- assign linkedin_url = 'https://www.linkedin.com/in/' | append: person.links.linkedin -%}
+        {%- endif -%}
+        <li><a href="{{ linkedin_url }}" target="_blank" rel="noopener">LinkedIn</a></li>
+        {% elsif person.links.Linkedin and person.links.Linkedin != "" %}
+        <li><a href="{{ person.links.Linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>
+        {% endif %}
+
+        {% if person.links.website and person.links.website != "" %}
+        <li><a href="{{ person.links.website }}" target="_blank" rel="noopener">Website</a></li>
+        {% endif %}
+      </ul>
+      {% endif %}
+    </aside>
+  </div>
+</div>
+{% else %}
+<div class="person-detail-page">
+  <p class="mb-4">
+    <a class="people-back-link" href="{{ '/team/' | relative_url }}"><i class="fas fa-arrow-left mr-2"></i>Team</a>
+  </p>
+  <div class="person-detail-main">
+    <h1>Profile Not Found</h1>
+    <p>This person could not be found in the team data.</p>
+  </div>
+</div>
+{% endif %}
+{% endunless %}

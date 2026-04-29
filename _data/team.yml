@@ -79,7 +79,7 @@ current_member:
       email: ""
       website: ""
 
- - name: "Hattie Hu"
+  - name: "Hattie Hu"
     role: "Research Assistant"
     title: "Undergraduate student (U of T)"
     start: "May 2026"

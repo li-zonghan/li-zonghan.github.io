@@ -79,6 +79,23 @@ current_member:
       email: ""
       website: ""
 
+ - name: "Hattie Hu"
+    role: "Research Assistant"
+    title: "Undergraduate student (U of T)"
+    start: "May 2026"
+    project: "GenAI for human behavior simulation"
+    short_bio: "Undergraduate student, UofT<br>Information"
+    personal_keywords:
+      - "Psychometrics"
+    bio: ""
+    photo: "/assets/images/photos/default-female.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
+      
   - name: "Yunuo Li"
     role: "Research Assistant"
     title: "Master's student (U of T)"

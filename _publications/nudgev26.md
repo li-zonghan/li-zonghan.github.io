@@ -3,7 +3,7 @@ title:          "Does large language model-generated prescriptive content increa
 date:           2026-01-02 00:01:00 +0800
 selected:       true
 working_paper:  true
-pub:            Under consideration at Energy Research & Social Science
+pub:            Under consideration at npj Environmental Social Sciences
 pub_date:       ""
 cover:          /assets/images/covers/nudgev26.png
 authors:

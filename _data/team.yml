@@ -81,14 +81,14 @@ current_member:
 
   - name: "Hattie Hu"
     role: "Research Assistant"
-    title: "Undergraduate student (U of T)"
+    title: "Master's student (U of T)"
     start: "May 2026"
     project: "GenAI for human behavior simulation"
-    short_bio: "Undergraduate student, UofT<br>Information"
+    short_bio: "Master's student, UofT<br>Information"
     personal_keywords:
       - "Psychometrics"
     bio: ""
-    photo: "/assets/images/photos/default-female.jpg"
+    photo: "/assets/images/photos/Hattie.jpg"
     links:
       scholar: ""
       github: ""

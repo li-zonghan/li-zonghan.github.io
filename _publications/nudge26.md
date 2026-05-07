@@ -3,7 +3,7 @@ title:          "Enhancing behavioral nudges with large language model-based ite
 date:           2026-01-05 00:01:00 +0800
 selected:       true
 working_paper:  true
-pub:            "Under consideration at Nature Communications"
+pub:            "Under consideration at PNAS"
 pub_date:       ""
 cover:          /assets/images/covers/nudge26.png
 authors:

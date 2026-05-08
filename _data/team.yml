@@ -95,6 +95,25 @@ current_member:
       linkedin: ""
       email: ""
       website: ""
+
+  - name: "Derek Lau"
+    role: "Research Assistant"
+    title: "Undergraduate student (U of T)"
+    start: "May 2026"
+    project: "GenAI for human behavior simulation"
+    short_bio: "Undergraduate student, UofT<br>Computer Science"
+    personal_keywords:
+      - "Multi-agent system"
+      - "Psychometrics"
+    bio: "Derek is an undergraduate student at the University of Toronto."
+    photo: "/assets/images/empty_300x200.png"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
+  
       
   - name: "Yunuo Li"
     role: "Research Assistant"

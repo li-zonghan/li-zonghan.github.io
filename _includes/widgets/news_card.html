@@ -1,0 +1,23 @@
+{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+
+<section class="homepage-news homepage-section my-4" id="news">
+    <div class="homepage-section-heading border-bottom border-gray py-3 mb-0">
+        <h2 class="h5 mb-0"><i class="fas fa-rss homepage-section-icon" aria-hidden="true"></i> News</h2>
+    </div>
+    <div class="pb-1 small">
+        {% for year in news_by_year %}
+        <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
+            {% assign not_first = true %}
+            <div class="mr-3 text-muted my-1">{{ year.name }}</div>
+            <div class="media-body">
+                {% for item in year.items %}
+                <div class="my-1 d-flex">
+                    <div>{{ item.title }}</div>
+                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>

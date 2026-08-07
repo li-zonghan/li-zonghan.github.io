@@ -1,0 +1,45 @@
+{%- assign item = include.item -%}
+{%- if item.pub_date and item.pub_date != '' -%}
+  {%- assign citation_year = item.pub_date -%}
+{%- else -%}
+  {%- assign citation_year = item.date | date: "%Y" -%}
+{%- endif -%}
+
+<div class="resume-citation">
+  <span class="resume-citation-authors">
+    {%- for raw_author in item.authors -%}
+      {%- assign equal_contribution = false -%}
+      {%- if raw_author contains '*' -%}{%- assign equal_contribution = true -%}{%- endif -%}
+      {%- assign clean_author = raw_author | remove: '<b>' | remove: '</b>' | remove: '*' | remove: '#' | strip -%}
+      {%- assign name_parts = clean_author | split: ' ' -%}
+      {%- assign surname = name_parts | last -%}
+      {%- capture formatted_author -%}{{ surname }}, {% for name_part in name_parts %}{% unless forloop.last %}{{ name_part | slice: 0, 1 | upcase }}.{% unless forloop.rindex == 2 %} {% endunless %}{% endunless %}{% endfor %}{%- endcapture -%}
+      {% if clean_author == 'Zonghan Li' %}<strong>{{ formatted_author | strip }}</strong>{% else %}{{ formatted_author | strip }}{% endif %}{% if equal_contribution %}<sup>*</sup>{% endif %}{% unless forloop.last %}{% if forloop.rindex == 2 %}, &amp; {% else %}, {% endif %}{% endunless %}
+    {%- endfor -%}
+  </span>
+  ({{ citation_year }}).
+  <span class="resume-citation-title">{{ item.title }}</span>{% assign title_last = item.title | slice: -1, 1 %}{% unless title_last == '.' or title_last == '?' or title_last == '!' %}.{% endunless %}
+  {% if include.working_paper %}
+    {% if item.pub %}<span class="resume-citation-status">{{ item.pub }}.</span>{% endif %}
+  {% else %}
+    {%- assign venue = item.pub | strip -%}
+    {%- assign venue_last = venue | slice: -1, 1 -%}
+    {%- if venue_last == ',' or venue_last == '.' -%}
+      {%- assign venue_length = venue | size | minus: 1 -%}
+      {%- assign venue = venue | slice: 0, venue_length -%}
+    {%- endif -%}
+    {% if venue != '' %}<i>{{ venue }}</i>.{% endif %}
+  {% endif %}
+
+  {%- assign primary_link = item.links.Paper | default: item.links.Preprint -%}
+  {%- unless primary_link -%}
+    {%- assign first_link = item.links | first -%}
+    {%- assign primary_link = first_link[1] -%}
+  {%- endunless -%}
+  {%- if primary_link.url -%}
+    {%- assign primary_url = primary_link.url -%}
+  {%- else -%}
+    {%- assign primary_url = primary_link -%}
+  {%- endif -%}
+  {% if primary_url %}<a class="resume-citation-link" href="{{ primary_url }}" target="_blank" rel="noopener">{{ primary_url }}</a>{% endif %}
+</div>

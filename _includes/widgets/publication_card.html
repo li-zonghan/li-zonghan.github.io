@@ -1,0 +1,10 @@
+{% assign publications = include.publications %}
+<section class="homepage-publications-card homepage-section my-4 p-0">
+    <div class="homepage-section-heading d-flex align-items-baseline justify-content-between border-bottom border-gray py-3 mb-0">
+        <h2 class="h5 mb-0">{% if include.title %}{{ include.title }}{% else %}Selected Recent Publications{% endif %}</h2>
+        <a class="homepage-section-link" href="{{ '/research.html' | relative_url }}#publications">View all publications &rarr;</a>
+    </div>
+    {% for item in publications limit:include.limit %}
+        {% include widgets/publication_item.html item=item first=false last=false %}    
+    {% endfor %}
+</section>

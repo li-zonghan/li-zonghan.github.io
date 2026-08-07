@@ -1,0 +1,73 @@
+<nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top mb-5 border-bottom site-navbar">
+    <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
+        <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav">
+                {% for item in site.data.navigation.pages %}
+                <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.url | relative_url }}" data-nav-name="{{ item.name }}">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+
+            <ul class="navbar-nav ml-auto d-none d-lg-flex navbar-utility">
+                <li class="nav-item">
+                    <a class="nav-link" href="mailto:{{ site.data.profile.email | encode_email }}" aria-label="Email" title="{{ site.data.profile.email }}">
+                        <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}" aria-label="Google Scholar" title="Google Scholar">
+                        <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}" aria-label="LinkedIn" title="LinkedIn">
+                        <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://orcid.org/{{ site.data.profile.orcid }}" aria-label="ORCID" title="ORCID">
+                        <i class="fab fa-orcid" aria-hidden="true"></i><span class="sr-only">ORCID</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <button class="nav-link theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+                        <i class="fas fa-moon" aria-hidden="true"></i><span class="sr-only theme-toggle-label">Dark mode</span>
+                    </button>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="navbar-nav flex-row ml-auto d-flex d-lg-none navbar-utility navbar-utility-mobile" aria-label="Contact and display options">
+            <li class="nav-item">
+                <a class="nav-link" href="mailto:{{ site.data.profile.email | encode_email }}" aria-label="Email" title="{{ site.data.profile.email }}">
+                    <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}" aria-label="Google Scholar" title="Google Scholar">
+                    <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}" aria-label="LinkedIn" title="LinkedIn">
+                    <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://orcid.org/{{ site.data.profile.orcid }}" aria-label="ORCID" title="ORCID">
+                    <i class="fab fa-orcid" aria-hidden="true"></i><span class="sr-only">ORCID</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+                    <i class="fas fa-moon" aria-hidden="true"></i><span class="sr-only theme-toggle-label">Dark mode</span>
+                </button>
+            </li>
+        </ul>
+    </div>
+</nav>

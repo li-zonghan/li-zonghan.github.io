@@ -1,0 +1,61 @@
+<div class="row homepage-profile">
+    <div class="col">
+        <div class="homepage-profile-card">
+            <div class="profile-card-body">
+                <div class="profile-layout">
+                    <div class="profile-copy">
+                        <div class="h1 profile-name">
+                            {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
+                        </div>
+                        <div class="text-profile-position">
+                            {% for position in site.data.profile.positions %}
+                            {% if position.logo -%}
+                            <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
+                            {%- endif %}
+                            {{ position.name }}<br/>
+                            {% endfor %}
+                        </div>
+                        <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
+                            {{ site.data.profile.short_bio }}
+                        </div>
+                        {% if site.data.profile.cv_link %}
+                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
+                        {% endif %}
+                    </div>
+
+                    {% if site.data.profile.portrait_url %}
+                    <figure class="profile-figure">
+                        <img
+                            src="{{ site.data.profile.portrait_url | relative_url }}"
+                            class="profile-portrait"
+                            data-toggle="tooltip"
+                            data-placement="top"
+                            title="{{ site.data.profile.portrait_caption }}"
+                            alt="Portrait of {{ site.data.profile.primary_name }}">
+                    </figure>
+                    {% endif %}
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+{% if site.data.profile.wechat_qrcode %}
+<div class="modal fade" id="modal-wechat" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-body p-0">
+                <img src="{{ site.data.profile.wechat_qrcode | relative_url }}" class="img-fluid">
+            </div>
+            {% if site.data.profile.wechat_prompt %}
+            <div class="modal-body p-1">
+                {{ site.data.profile.wechat_prompt }}
+            </div>
+            {% endif %}
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}

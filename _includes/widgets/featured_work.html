@@ -1,0 +1,41 @@
+{% assign items = include.items %}
+<section class="homepage-featured homepage-section my-5" id="featured">
+  <div class="homepage-section-heading featured-heading d-flex align-items-baseline justify-content-between mb-3">
+    <h2 class="mb-0">Featured</h2>
+    <a class="homepage-section-link" href="{{ '/research' | relative_url }}">View all research &rarr;</a>
+  </div>
+
+  <div class="featured-grid">
+    {% for item in items limit:3 %}
+      {% assign primary_link = item.links.Paper | default: item.links.Preprint %}
+      {% unless primary_link %}
+        {% assign first_link = item.links | first %}
+        {% assign primary_link = first_link[1] %}
+      {% endunless %}
+      {% if primary_link.url %}
+        {% assign featured_url = primary_link.url %}
+      {% else %}
+        {% assign featured_url = primary_link %}
+      {% endif %}
+      {% unless featured_url %}
+        {% if item.working_paper %}
+          {% assign featured_url = '/research#preprints' | relative_url %}
+        {% else %}
+          {% assign featured_url = '/research#publications' | relative_url %}
+        {% endif %}
+      {% endunless %}
+
+      <a class="featured-card" href="{{ featured_url }}"{% if featured_url contains '://' %} target="_blank" rel="noopener"{% endif %}>
+        <img class="featured-card-image" src="{{ item.cover | relative_url }}" alt="" loading="lazy">
+        <div class="featured-card-body">
+          <div class="featured-card-kicker">{{ item.featured_label | default: 'Research' }}</div>
+          <h3 class="featured-card-title">{{ item.title }}</h3>
+          {% if item.featured_description %}<p class="featured-card-description">{{ item.featured_description }}</p>{% endif %}
+          <div class="featured-card-meta">
+            {% if item.working_paper %}{{ item.pub }}{% else %}{{ item.pub | remove: ',' }} · {{ item.pub_date }}{% endif %}
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>

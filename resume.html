@@ -1,0 +1,201 @@
+---
+layout: default
+title: Résumé
+navbar_title: Résumé
+permalink: /resume/
+body_attr: >-
+  data-spy="scroll" data-target="#navbar-resume" data-offset="100"
+---
+
+<div class="row resume-page">
+  <div class="col-12 col-lg-10">
+    <h1>Résumé</h1>
+
+    {% assign resume = site.data.resume %}
+    {% assign published_publications = site.publications | where_exp: "item", "item.working_paper != true" | sort: "date" | reverse %}
+    {% assign working_papers = site.publications | where: "working_paper", true | sort: "date" | reverse %}
+
+    {% if resume.education %}
+    <section class="resume-section" id="resume-education">
+      <h2>Education</h2>
+      <div class="resume-list">
+        {% for item in resume.education %}
+        <div class="resume-row resume-education-row">
+          <div class="resume-mark">
+            {% if item.logo %}<img src="{{ item.logo | relative_url }}" alt="" loading="lazy">{% endif %}
+          </div>
+          <div class="resume-entry">
+            <h3>{{ item.institution }} <span class="resume-location">{{ item.location }}</span></h3>
+            <div class="resume-degree-line">
+              <span><strong>{{ item.degree }}</strong>, Focus: {{ item.focus }}</span>
+            </div>
+            <div class="resume-note">Advisor: {{ item.advisor }}. {{ item.thesis_label }}: {{ item.thesis }}</div>
+          </div>
+          <div class="resume-date">{{ item.period }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if site.data.profile.awards %}
+    <section class="resume-section" id="resume-awards">
+      <h2>Honors &amp; Awards</h2>
+      <div class="resume-list resume-awards-list">
+        {% for item in site.data.profile.awards %}
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">{{ item.name }}</div>
+          <div class="resume-date">{{ item.date }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if published_publications.size > 0 or working_papers.size > 0 %}
+    <section class="resume-section" id="resume-publications">
+      <h2>Publications</h2>
+
+      {% if published_publications.size > 0 %}
+      <div class="resume-publication-group">
+        <h3 class="resume-subheading">Published Articles</h3>
+        <ol class="resume-talk-list resume-publication-list">
+          {% for item in published_publications %}
+          <li>{% include widgets/apa_citation.html item=item working_paper=false %}</li>
+          {% endfor %}
+        </ol>
+      </div>
+      {% endif %}
+
+      {% if working_papers.size > 0 %}
+      <div class="resume-publication-group">
+        <h3 class="resume-subheading">Working Papers</h3>
+      <ol class="resume-talk-list resume-publication-list">
+          {% for item in working_papers %}
+          <li>{% include widgets/apa_citation.html item=item working_paper=true %}</li>
+          {% endfor %}
+      </ol>
+        <p class="resume-publication-note"><sup>*</sup> Equal contribution.</p>
+      </div>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {% if resume.research_experience %}
+    <section class="resume-section" id="resume-experience">
+      <h2>Research Experience</h2>
+      <div class="resume-list">
+        {% for item in resume.research_experience %}
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>{{ item.role }}</h3>
+            <div class="resume-detail">{{ item.organization }}</div>
+          </div>
+          <div class="resume-date">{{ item.period }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if resume.research_projects %}
+    <section class="resume-section" id="resume-projects">
+      <h2>Research Projects</h2>
+      <div class="resume-list">
+        {% for item in resume.research_projects %}
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>{{ item.title }}</h3>
+            <div class="resume-detail">{{ item.sponsor }} · PI: {{ item.pi }}</div>
+            <div class="resume-note">Role: {{ item.role }}</div>
+          </div>
+          <div class="resume-date">{{ item.period }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if resume.talks %}
+    <section class="resume-section" id="resume-talks">
+      <h2>Selected Talks, Presentations &amp; Posters</h2>
+      <ol class="resume-talk-list">
+        {% for item in resume.talks %}
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">{{ item.title }}</span>. <span class="resume-detail">{{ item.venue }}.</span></div>
+            <div class="resume-date">{{ item.date }}</div>
+          </div>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {% if resume.teaching or resume.mentorship %}
+    <section class="resume-section" id="resume-teaching">
+      <h2>Teaching &amp; Mentoring</h2>
+
+      {% if resume.teaching %}
+      <h3 class="resume-subheading">Teaching Assistantships</h3>
+      <div class="resume-list">
+        {% for item in resume.teaching %}
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>TA, {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.course }}</a>{% else %}{{ item.course }}{% endif %}</h3>
+            <div class="resume-detail">{{ item.details }}</div>
+            {% if item.highlight %}<div class="resume-note"><strong>Highlight:</strong> {{ item.highlight }}</div>{% endif %}
+          </div>
+          <div class="resume-date">{{ item.period }}</div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if resume.mentorship %}
+      <h3 class="resume-subheading resume-subheading-spaced">Mentorship</h3>
+      <div class="resume-mentorship-grid">
+        {% for item in resume.mentorship %}
+        <div class="resume-mentor">
+          <strong>{{ item.name }}</strong>
+          <span class="resume-detail">{{ item.details }}</span>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {% if resume.service %}
+    <section class="resume-section" id="resume-service">
+      <h2>Academic Service &amp; Leadership</h2>
+      <div class="resume-list">
+        {% for item in resume.service %}
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>{{ item.title }}</h3>
+            {% if item.organization %}<div class="resume-detail">{{ item.organization }}</div>{% endif %}
+            {% if item.details %}<div class="resume-note">{{ item.details }}</div>{% endif %}
+          </div>
+          {% if item.period %}<div class="resume-date">{{ item.period }}</div>{% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+  </div>
+
+  <div class="col-2 d-none d-lg-block">
+    <div id="navbar-resume" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+      <a class="nav-link d-block" href="#resume-education">Education</a>
+      <a class="nav-link d-block" href="#resume-awards">Honors &amp; Awards</a>
+      <a class="nav-link d-block" href="#resume-publications">Publications</a>
+      <a class="nav-link d-block" href="#resume-experience">Research experience</a>
+      <a class="nav-link d-block" href="#resume-projects">Research projects</a>
+      <a class="nav-link d-block" href="#resume-talks">Talks &amp; presentations</a>
+      <a class="nav-link d-block" href="#resume-teaching">Teaching &amp; mentoring</a>
+      <a class="nav-link d-block" href="#resume-service">Service &amp; leadership</a>
+    </div>
+  </div>
+</div>

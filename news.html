@@ -1,0 +1,40 @@
+---
+layout: default
+title: News
+navbar_title: News
+permalink: /news/
+body_attr: >-
+  data-spy="scroll" data-target="#navbar-news" data-offset="100"
+---
+
+{% assign news_by_year = site.news | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+
+<div class="row news-page">
+  <div class="col-12 col-lg-10">
+    <h1>News</h1>
+
+    <div class="news-archive">
+      {% for year in news_by_year %}
+      <section class="news-year-section" id="news-{{ year.name }}">
+        <h2>{{ year.name }}</h2>
+        <div class="news-year-list">
+          {% for item in year.items %}
+          <article class="news-entry">
+            <time class="news-entry-date" datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %d" }}</time>
+            <div class="news-entry-title">{{ item.title }}</div>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="col-2 d-none d-lg-block">
+    <div id="navbar-news" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+      {% for year in news_by_year %}
+      <a class="nav-link d-block" href="#news-{{ year.name }}">{{ year.name }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

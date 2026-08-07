@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Template: https://github.com/luost26/academic-homepage -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Résumé - Zonghan Li</title>
+    <script>
+        (function () {
+            var savedTheme;
+            try {
+                savedTheme = localStorage.getItem("theme");
+            } catch (error) {
+                savedTheme = null;
+            }
+            var systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+            var theme = savedTheme === "dark" || savedTheme === "light" ? savedTheme : (systemDark ? "dark" : "light");
+            document.documentElement.setAttribute("data-theme", theme);
+            document.documentElement.style.colorScheme = theme;
+        }());
+    </script>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/global.css?v=1786091798">
+</head>
+<body class="site-body" data-spy="scroll" data-target="#navbar-resume" data-offset="100">
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top mb-5 border-bottom site-navbar">
+    <div class="container-lg">
+        <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav">
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/" data-nav-name="About">About</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/news/" data-nav-name="News">News</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/research" data-nav-name="Research">Research</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/teaching" data-nav-name="Teaching">Teaching</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/team" data-nav-name="Team">Team</a>
+                </li>
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="/resume/" data-nav-name="Résumé">Résumé</a>
+                </li>
+                
+            </ul>
+
+            <ul class="navbar-nav ml-auto d-none d-lg-flex navbar-utility">
+                <li class="nav-item">
+                    <a class="nav-link" href="mailto:%7A%6F%6E%67%68%61%6E.%6C%69@%6F%75%74%6C%6F%6F%6B.%63%6F%6D" aria-label="Email" title="zonghan.li@outlook.com">
+                        <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=v66rmnsAAAAJ" aria-label="Google Scholar" title="Google Scholar">
+                        <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://www.linkedin.com/in/lizonghan" aria-label="LinkedIn" title="LinkedIn">
+                        <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://orcid.org/0000-0003-0253-0139" aria-label="ORCID" title="ORCID">
+                        <i class="fab fa-orcid" aria-hidden="true"></i><span class="sr-only">ORCID</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <button class="nav-link theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+                        <i class="fas fa-moon" aria-hidden="true"></i><span class="sr-only theme-toggle-label">Dark mode</span>
+                    </button>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="navbar-nav flex-row ml-auto d-flex d-lg-none navbar-utility navbar-utility-mobile" aria-label="Contact and display options">
+            <li class="nav-item">
+                <a class="nav-link" href="mailto:%7A%6F%6E%67%68%61%6E.%6C%69@%6F%75%74%6C%6F%6F%6B.%63%6F%6D" aria-label="Email" title="zonghan.li@outlook.com">
+                    <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=v66rmnsAAAAJ" aria-label="Google Scholar" title="Google Scholar">
+                    <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://www.linkedin.com/in/lizonghan" aria-label="LinkedIn" title="LinkedIn">
+                    <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://orcid.org/0000-0003-0253-0139" aria-label="ORCID" title="ORCID">
+                    <i class="fab fa-orcid" aria-hidden="true"></i><span class="sr-only">ORCID</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+                    <i class="fas fa-moon" aria-hidden="true"></i><span class="sr-only theme-toggle-label">Dark mode</span>
+                </button>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+    <div class="site-shell container-lg">
+        <div class="row resume-page">
+  <div class="col-12 col-lg-10">
+    <h1>Résumé</h1>
+
+    
+    
+    
+
+    
+    <section class="resume-section" id="resume-education">
+      <h2>Education</h2>
+      <div class="resume-list">
+        
+        <div class="resume-row resume-education-row">
+          <div class="resume-mark">
+            <img src="/assets/images/badges/UofT.png" alt="" loading="lazy">
+          </div>
+          <div class="resume-entry">
+            <h3>University of Toronto <span class="resume-location">ON, Canada</span></h3>
+            <div class="resume-degree-line">
+              <span><strong>PhD student</strong>, Focus: Computational Social Science</span>
+            </div>
+            <div class="resume-note">Advisor: Dr. Feng Ji. Proposed thesis: Estimating causal relationships through large language models.</div>
+          </div>
+          <div class="resume-date">Sep. 2025 – Present</div>
+        </div>
+        
+        <div class="resume-row resume-education-row">
+          <div class="resume-mark">
+            <img src="/assets/images/badges/THU.png" alt="" loading="lazy">
+          </div>
+          <div class="resume-entry">
+            <h3>Tsinghua University <span class="resume-location">Beijing, China</span></h3>
+            <div class="resume-degree-line">
+              <span><strong>MSc</strong>, Focus: Systems Analysis</span>
+            </div>
+            <div class="resume-note">Advisor: Dr. Yi Liu. Thesis: Nudging pro-environmental behaviors through large language models.</div>
+          </div>
+          <div class="resume-date">Aug. 2022 – June 2025</div>
+        </div>
+        
+        <div class="resume-row resume-education-row">
+          <div class="resume-mark">
+            <img src="/assets/images/badges/CUP.png" alt="" loading="lazy">
+          </div>
+          <div class="resume-entry">
+            <h3>China University of Petroleum <span class="resume-location">Beijing, China</span></h3>
+            <div class="resume-degree-line">
+              <span><strong>BEcon</strong>, Focus: Energy Economics</span>
+            </div>
+            <div class="resume-note">Advisor: Dr. Jianliang Wang. Thesis: Simulating household water-energy nexus based on multi-source data.</div>
+          </div>
+          <div class="resume-date">Aug. 2018 – June 2022</div>
+        </div>
+        
+      </div>
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-awards">
+      <h2>Honors &amp; Awards</h2>
+      <div class="resume-list resume-awards-list">
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Canada Graduate Research Scholarship – Doctoral</div>
+          <div class="resume-date">2026</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Google Cloud Research Credit Award (USD 20,000)</div>
+          <div class="resume-date">2026</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">National Scholarship – Master’s</div>
+          <div class="resume-date">2024, 2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">National Scholarship – Undergraduate</div>
+          <div class="resume-date">2021, 2020</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Best Young Scientist Oral Presentation, International Conference on Resource Sustainability</div>
+          <div class="resume-date">2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Capital’s Frontier Academic Achievement</div>
+          <div class="resume-date">2025</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Outstanding Graduate of Beijing</div>
+          <div class="resume-date">2025, 2022</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Outstanding Bachelor Thesis of Beijing</div>
+          <div class="resume-date">2022</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Merit Student of Beijing</div>
+          <div class="resume-date">2021</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-award-row">
+          <div class="resume-entry">Dean’s Scholarship</div>
+          <div class="resume-date">2021</div>
+        </div>
+        
+      </div>
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-publications">
+      <h2>Publications</h2>
+
+      
+      <div class="resume-publication-group">
+        <h3 class="resume-subheading">Published Articles</h3>
+        <ol class="resume-talk-list resume-publication-list">
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors">Wu, H., Wang, C., Liu, Y., <strong>Li, Z.</strong>, &amp; Zhuge, C.</span>
+  (2025).
+  <span class="resume-citation-title">Spatiotemporal analysis of neighborhood noise complaints and related factors: A case study in Beijing, China</span>.
+  <i>Building and Environment</i>.
+  <a class="resume-citation-link" href="https://doi.org/10.1016/j.buildenv.2025.113332" target="_blank" rel="noopener">https://doi.org/10.1016/j.buildenv.2025.113332</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, Zhang, Q., Wang, C., Zhang, F., Liu, Y., Zhang, L., &amp; Xie, D.</span>
+  (2025).
+  <span class="resume-citation-title">Balancing act: How community measures shape environmental risk perceptions and preventive behaviours during the COVID-19 pandemic</span>.
+  <i>Environmental Impact Assessment Review</i>.
+  <a class="resume-citation-link" href="https://doi.org/10.1016/j.eiar.2025.108062" target="_blank" rel="noopener">https://doi.org/10.1016/j.eiar.2025.108062</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors">Pei, S., <strong>Li, Z.</strong>, Liu, Y., Wang, C., Wu, H., Liu, S., &amp; Huang, Y.</span>
+  (2025).
+  <span class="resume-citation-title">Trajectory, drivers, and reduction of greenhouse gas emissions from urban water system in China during 1980–2030</span>.
+  <i>Resources, Environment and Sustainability</i>.
+  <a class="resume-citation-link" href="https://doi.org/10.1016/j.resenv.2025.100244" target="_blank" rel="noopener">https://doi.org/10.1016/j.resenv.2025.100244</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors">Wang, M., <strong>Li, Z.</strong>, Liu, Y., Lin, L., &amp; Wang, C.</span>
+  (2025).
+  <span class="resume-citation-title">A hybrid model of machine learning for classifying household water-consumption behaviors</span>.
+  <i>Cleaner and Responsible Consumption</i>.
+  <a class="resume-citation-link" href="https://doi.org/10.1016/j.clrc.2025.100252" target="_blank" rel="noopener">https://doi.org/10.1016/j.clrc.2025.100252</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, Wang, C., Liu, Y., &amp; Wang, J.</span>
+  (2024).
+  <span class="resume-citation-title">Enhancing the explanation of household water consumption through the water-energy nexus concept</span>.
+  <i>npj Clean Water</i>.
+  <a class="resume-citation-link" href="https://www.nature.com/articles/s41545-024-00298-6" target="_blank" rel="noopener">https://www.nature.com/articles/s41545-024-00298-6</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors">Wang, C., <strong>Li, Z.</strong>, Ni, X., Shi, W., Zhang, J., Bian, J., &amp; Liu, Y.</span>
+  (2023).
+  <span class="resume-citation-title">Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach</span>.
+  <i>Water Research</i>.
+  <a class="resume-citation-link" href="https://doi.org/10.1016/j.watres.2023.120733" target="_blank" rel="noopener">https://doi.org/10.1016/j.watres.2023.120733</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, Wang, C., &amp; Liu, Y.</span>
+  (2023).
+  <span class="resume-citation-title">A dataset on energy efficiency grade of white goods in mainland China at regional and household levels</span>.
+  <i>Scientific Data</i>.
+  <a class="resume-citation-link" href="https://www.nature.com/articles/s41597-023-02358-x" target="_blank" rel="noopener">https://www.nature.com/articles/s41597-023-02358-x</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, Ye, H., Liao, N., Wang, R., Qiu, Y., &amp; Wang, Y.</span>
+  (2022).
+  <span class="resume-citation-title">Impact of COVID-19 on energy consumption: A quantitative analysis on electricity</span>.
+  <i>International Journal of Electrical Power & Energy Systems</i>.
+  <a class="resume-citation-link" href="https://doi.org/10.1016/j.ijepes.2022.108084" target="_blank" rel="noopener">https://doi.org/10.1016/j.ijepes.2022.108084</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors">Wang, J., <strong>Li, Z.</strong>, Ye, H., Mei, Y., Fu, J., &amp; Li, Q.</span>
+  (2021).
+  <span class="resume-citation-title">Do China’s coal-to-gas policies improve regional environmental quality? A case of Beijing</span>.
+  <i>Environmental Science and Pollution Research</i>.
+  <a class="resume-citation-link" href="https://link.springer.com/article/10.1007/s11356-021-14727-3" target="_blank" rel="noopener">https://link.springer.com/article/10.1007/s11356-021-14727-3</a>
+</div>
+</li>
+          
+        </ol>
+      </div>
+      
+
+      
+      <div class="resume-publication-group">
+        <h3 class="resume-subheading">Working Papers</h3>
+      <ol class="resume-talk-list resume-publication-list">
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong><sup>*</sup>, He, X.<sup>*</sup>, Lau, D.<sup>*</sup>, &amp; Ji, F.</span>
+  (2026).
+  <span class="resume-citation-title">Beyond persona prompts: Steering and validating synthetic text generation through psychological and linguistic output targets</span>.
+  
+    <span class="resume-citation-status">Under consideration at conference.</span>
+  
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, &amp; Ji, F.</span>
+  (2026).
+  <span class="resume-citation-title">Statistical realism is not evidence that LLMs can estimate treatment effects in social science experiments</span>.
+  
+    <span class="resume-citation-status">Under consideration at journal.</span>
+  <a class="resume-citation-link" href="https://doi.org/10.48550/arXiv.2604.02458" target="_blank" rel="noopener">https://doi.org/10.48550/arXiv.2604.02458</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong><sup>*</sup>, Wang, Z.<sup>*</sup>, Yang, Y., Li, Q., Su, M., Xie, D., Ji, F., &amp; Liu, Y.</span>
+  (2026).
+  <span class="resume-citation-title">The integrated environmental zoning-based regulation further enhances sustainable development in China</span>.
+  
+    <span class="resume-citation-status">Under minor revision at Nature Communications.</span>
+  
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, Liu, Y., Wang, C., Tong, S., Peng, K., &amp; Ji, F.</span>
+  (2026).
+  <span class="resume-citation-title">LLM-generated personalized nudges for improving pro-environmental behavior: Field evidence from resource conservation</span>.
+  
+    <span class="resume-citation-status">Under consideration at journal.</span>
+  <a class="resume-citation-link" href="https://doi.org/10.48550/arXiv.2604.03881" target="_blank" rel="noopener">https://doi.org/10.48550/arXiv.2604.03881</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors"><strong>Li, Z.</strong>, Tong, S., Liu, Y., Peng, K., Wang, C., Fensel, A., &amp; Ji, F.</span>
+  (2026).
+  <span class="resume-citation-title">Does large language model-generated prescriptive content increase behavioral intentions? An experimental vignette study</span>.
+  
+    <span class="resume-citation-status">Under consideration at journal.</span>
+  <a class="resume-citation-link" href="https://arxiv.org/abs/2503.11531" target="_blank" rel="noopener">https://arxiv.org/abs/2503.11531</a>
+</div>
+</li>
+          
+          <li><div class="resume-citation">
+  <span class="resume-citation-authors">Song, X., <strong>Li, Z.</strong>, Zhang, X., Han, Y., He, J., &amp; Ji, F.</span>
+  (2026).
+  <span class="resume-citation-title">Unlocking the black box: A tutorial on using SHAP for interpretable machine learning in psychological research</span>.
+  
+    <span class="resume-citation-status">Under consideration at journal.</span>
+  
+</div>
+</li>
+          
+      </ol>
+        <p class="resume-publication-note"><sup>*</sup> Equal contribution.</p>
+      </div>
+      
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-experience">
+      <h2>Research Experience</h2>
+      <div class="resume-list">
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>PhD researcher</h3>
+            <div class="resume-detail">Psychometrics and Responsible AI Lab, University of Toronto</div>
+          </div>
+          <div class="resume-date">2025–Present</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Research Assistant</h3>
+            <div class="resume-detail">Department of Environmental System Analysis, Tsinghua University</div>
+          </div>
+          <div class="resume-date">2021–2025</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Research Assistant</h3>
+            <div class="resume-detail">Department of Applied Economics, China University of Petroleum</div>
+          </div>
+          <div class="resume-date">2020–2022</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Research Assistant</h3>
+            <div class="resume-detail">College of Oil & Gas Storage and Transportation, China University of Petroleum</div>
+          </div>
+          <div class="resume-date">2019–2022</div>
+        </div>
+        
+      </div>
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-projects">
+      <h2>Research Projects</h2>
+      <div class="resume-list">
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>Responsible use of generative AI in quantitative social sciences research</h3>
+            <div class="resume-detail">Social Sciences and Humanities Research Council · PI: Dr. Feng Ji</div>
+            <div class="resume-note">Role: Investigator</div>
+          </div>
+          <div class="resume-date">Sep. 2025–Present</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>Large language models as tools for designing and evaluating behavioral research</h3>
+            <div class="resume-detail">Google · PI: Zonghan Li</div>
+            <div class="resume-note">Role: Principal Investigator</div>
+          </div>
+          <div class="resume-date">May 2026–Present</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>Research on the influence mechanisms of generative artificial intelligence-based nudging on household water and energy consumption behaviors</h3>
+            <div class="resume-detail">National Natural Science Foundation of China · PI: Dr. Chunyan Wang</div>
+            <div class="resume-note">Role: Investigator</div>
+          </div>
+          <div class="resume-date">Jan. 2024–Present</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>Environmental zoning regulation policy evaluation</h3>
+            <div class="resume-detail">National Natural Science Foundation of China · PI: Dr. Zishu Wang</div>
+            <div class="resume-note">Role: Investigator</div>
+          </div>
+          <div class="resume-date">Sep. 2024–Present</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>High-resolution simulation of urban household water-energy nexus based on consumption activity</h3>
+            <div class="resume-detail">National Natural Science Foundation of China · PI: Dr. Yi Liu</div>
+            <div class="resume-note">Role: Investigator</div>
+          </div>
+          <div class="resume-date">Sep. 2021–Dec. 2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>Environmental safety and secondary risk prevention and control in major epidemics</h3>
+            <div class="resume-detail">National Natural Science Foundation of China · PI: Dr. Yi Liu</div>
+            <div class="resume-note">Role: Investigator</div>
+          </div>
+          <div class="resume-date">Sep. 2021–Dec. 2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact resume-project-row">
+          <div class="resume-entry">
+            <h3>Global Energy Perspective</h3>
+            <div class="resume-detail">National Student Research Training Program · PI: Zonghan Li</div>
+            <div class="resume-note">Role: Principal Investigator</div>
+          </div>
+          <div class="resume-date">May 2019–Dec. 2022</div>
+        </div>
+        
+      </div>
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-talks">
+      <h2>Selected Talks, Presentations &amp; Posters</h2>
+      <ol class="resume-talk-list">
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Leveraging AI for behavioral interventions using digital nudges</span>. <span class="resume-detail">Symposium: How to Leverage AI for Psychological Research, CPA Annual Convention, Montréal, Canada.</span></div>
+            <div class="resume-date">June 2026</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Promoting daily water and energy conservation with large language model-powered nudges</span>. <span class="resume-detail">International Conference on Resource Sustainability, Adelaide, Australia.</span></div>
+            <div class="resume-date">July 2025</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Large Language Models for Environmental System Modeling</span>. <span class="resume-detail">Invited guest lecture, Theories and Methods of Environmental Systems Modeling, Tsinghua University.</span></div>
+            <div class="resume-date">Apr. 2025</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Mining the potential of large language models in nudging daily energy and water conservation on university campus</span>. <span class="resume-detail">AGU Fall Meeting, Washington, D.C., USA.</span></div>
+            <div class="resume-date">Dec. 2024</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Grounding generative AI for nudging campus energy and water conservation behaviors</span>. <span class="resume-detail">International Conference on Applied Energy, Niigata, Japan.</span></div>
+            <div class="resume-date">Sep. 2024</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Urban communities have vital impacts on individual COVID-19 prevention behaviors</span>. <span class="resume-detail">Global Cleaner Production Conference, Shanghai, China.</span></div>
+            <div class="resume-date">Nov. 2023</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Enhancing the explanation of household water consumption through the water-energy nexus concept: A case in Beijing, China</span>. <span class="resume-detail">International Conference on Resource Sustainability, Surrey, United Kingdom.</span></div>
+            <div class="resume-date">Aug. 2023</div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="resume-talk-content">
+            <div><span class="resume-talk-title">Predicting annual household water consumption using the water-energy nexus concept</span>. <span class="resume-detail">Applied Energy Symposium: Low Carbon Cities & Urban Energy Systems, presented online.</span></div>
+            <div class="resume-date">Nov. 2022</div>
+          </div>
+        </li>
+        
+      </ol>
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-teaching">
+      <h2>Teaching &amp; Mentoring</h2>
+
+      
+      <h3 class="resume-subheading">Teaching Assistantships</h3>
+      <div class="resume-list">
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>TA, <a href="https://oise.academic-guide.utoronto.ca/course/joi1288h" target="_blank" rel="noopener">Intermediate Statistics and Research Design</a></h3>
+            <div class="resume-detail">0.5 full-course equivalent, graduate, University of Toronto JOI1288</div>
+            
+          </div>
+          <div class="resume-date">Fall 2026</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>TA, Atmospheric Numerical Modeling</h3>
+            <div class="resume-detail">2 credits, graduate, Tsinghua University 70050393</div>
+            <div class="resume-note"><strong>Highlight:</strong> Participated in gathering teaching materials and fine-tuning an LLM for teaching purposes.</div>
+          </div>
+          <div class="resume-date">Fall 2024</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>TA, Theories and Methods of Environmental Systems Modeling</h3>
+            <div class="resume-detail">2 credits, graduate, Tsinghua University 80050092</div>
+            <div class="resume-note"><strong>Highlight:</strong> Rated “Excellent” by Tsinghua University.</div>
+          </div>
+          <div class="resume-date">Spring 2024</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>TA, Social Computing</h3>
+            <div class="resume-detail">3 credits, graduate, Tsinghua University 70670343</div>
+            <div class="resume-note"><strong>Highlight:</strong> Tutored 20 students in Python programming and natural language processing coursework.</div>
+          </div>
+          <div class="resume-date">Spring 2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>TA, Environmental System Thinking and Big Data</h3>
+            <div class="resume-detail">1 credit, undergraduate, Tsinghua University 00050131</div>
+            <div class="resume-note"><strong>Highlight:</strong> Assisted three first-year students in applying for and completing Student Research Training Projects.</div>
+          </div>
+          <div class="resume-date">Fall 2022</div>
+        </div>
+        
+      </div>
+      
+
+      
+      <h3 class="resume-subheading resume-subheading-spaced">Mentorship</h3>
+      <div class="resume-mentorship-grid">
+        
+        <div class="resume-mentor">
+          <strong>Hattie Hu</strong>
+          <span class="resume-detail">Master’s, RA, 2026–Present</span>
+        </div>
+        
+        <div class="resume-mentor">
+          <strong>Derek Lau</strong>
+          <span class="resume-detail">Undergraduate, RA, 2026–Present</span>
+        </div>
+        
+        <div class="resume-mentor">
+          <strong>Yunuo Li</strong>
+          <span class="resume-detail">Master’s, RA, 2026–Present</span>
+        </div>
+        
+        <div class="resume-mentor">
+          <strong>Zhixun Yan</strong>
+          <span class="resume-detail">Master’s, RA, 2026–Present</span>
+        </div>
+        
+        <div class="resume-mentor">
+          <strong>Tianyi Zhao</strong>
+          <span class="resume-detail">Undergraduate, RA, 2026–Present</span>
+        </div>
+        
+        <div class="resume-mentor">
+          <strong>Laurence Yang</strong>
+          <span class="resume-detail">Master’s, RA, 2026</span>
+        </div>
+        
+      </div>
+      
+    </section>
+    
+
+    
+    <section class="resume-section" id="resume-service">
+      <h2>Academic Service &amp; Leadership</h2>
+      <div class="resume-list">
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Ad-hoc reviewer (16 manuscripts reviewed)</h3>
+            
+            <div class="resume-note">Psychological Methods; Technological Forecasting and Social Change; iScience; Journal of Cleaner Production; International Journal of Electrical Power & Energy Systems; Data in Brief.</div>
+          </div>
+          
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Consultant, Academic Career Workshop</h3>
+            <div class="resume-detail">Tsinghua University</div>
+            
+          </div>
+          <div class="resume-date">2024–2025</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Graduate Freshmen Counselor</h3>
+            <div class="resume-detail">Tsinghua University</div>
+            
+          </div>
+          <div class="resume-date">2023–2025</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Dean’s Assistant, School of Environment</h3>
+            <div class="resume-detail">Tsinghua University</div>
+            
+          </div>
+          <div class="resume-date">2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Co-editor, T+Z Technology Review Editorial Office</h3>
+            <div class="resume-detail">Tsinghua University</div>
+            
+          </div>
+          <div class="resume-date">2023</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Grade Leader, School of Economics and Management</h3>
+            <div class="resume-detail">China University of Petroleum</div>
+            
+          </div>
+          <div class="resume-date">2019–2022</div>
+        </div>
+        
+        <div class="resume-row resume-row-compact">
+          <div class="resume-entry">
+            <h3>Volunteer</h3>
+            <div class="resume-detail">Beijing Volunteer Service Federation</div>
+            <div class="resume-note">Total service duration: 678 hours.</div>
+          </div>
+          <div class="resume-date">2018–Present</div>
+        </div>
+        
+      </div>
+    </section>
+    
+
+  </div>
+
+  <div class="col-2 d-none d-lg-block">
+    <div id="navbar-resume" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+      <a class="nav-link d-block" href="#resume-education">Education</a>
+      <a class="nav-link d-block" href="#resume-awards">Honors &amp; Awards</a>
+      <a class="nav-link d-block" href="#resume-publications">Publications</a>
+      <a class="nav-link d-block" href="#resume-experience">Research experience</a>
+      <a class="nav-link d-block" href="#resume-projects">Research projects</a>
+      <a class="nav-link d-block" href="#resume-talks">Talks &amp; presentations</a>
+      <a class="nav-link d-block" href="#resume-teaching">Teaching &amp; mentoring</a>
+      <a class="nav-link d-block" href="#resume-service">Service &amp; leadership</a>
+    </div>
+  </div>
+</div>
+
+    </div>
+    <footer class="footer border-top py-2 mt-5 bg-white small">
+    <div class="container-lg">
+        <div class="row my-3">
+            <div class="col-6">
+                <div class="text-muted">
+                    <i>Last updated: Aug 2026</i>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="text-right text-muted">
+                    © Zonghan Li 2026
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js" integrity="sha512-XKa9Hemdy1Ui3KSGgJdgMyYlUg1gM+QhL6cnlyTe2qzMCYm4nAZ1PsVerQzTTXzonUR+dmswHqgJPuwCq1MaAg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/github-buttons/2.14.2/buttons.min.js" integrity="sha512-OYwZx04hKFeFNYrWxIyo3atgGpb+cxU0ENWBZs72X7T9U+NoHPM1ftUn/Mfw7dRDXrqWA6M1wBg6z6fGE32aeA==" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" integrity="sha384-7zkQWkzuo3B5mTepMUcHkMB5jZaolc2xDwL6VFqjFALcbeS9Ggm/Yr2r3Dy4lfFg" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+              delimiters: [
+                  {left: '$$', right: '$$', display: true},
+                  {left: '$', right: '$', display: false}
+              ],
+              throwOnError : false
+            });
+        });
+    </script>
+    <script src="/assets/js/common.js"></script>
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/bubble_visual_hash.js"></script>
+    <script src="/assets/js/semantic_scholar_citation_count.js"></script>
+</body>
+</html>

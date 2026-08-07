@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Template: https://github.com/luost26/academic-homepage -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Homepage - Zonghan Li</title>
+    <script>
+        (function () {
+            var savedTheme;
+            try {
+                savedTheme = localStorage.getItem("theme");
+            } catch (error) {
+                savedTheme = null;
+            }
+            var systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+            var theme = savedTheme === "dark" || savedTheme === "light" ? savedTheme : (systemDark ? "dark" : "light");
+            document.documentElement.setAttribute("data-theme", theme);
+            document.documentElement.style.colorScheme = theme;
+        }());
+    </script>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/global.css?v=1786091798">
+</head>
+<body class="site-body" >
+    <nav class="navbar navbar-expand-sm navbar-light bg-white fixed-top mb-5 border-bottom site-navbar">
+    <div class="container-lg">
+        <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav">
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="/" data-nav-name="About">About</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/news/" data-nav-name="News">News</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/research" data-nav-name="Research">Research</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/teaching" data-nav-name="Teaching">Teaching</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/team" data-nav-name="Team">Team</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/resume/" data-nav-name="Résumé">Résumé</a>
+                </li>
+                
+            </ul>
+
+            <ul class="navbar-nav ml-auto d-none d-lg-flex navbar-utility">
+                <li class="nav-item">
+                    <a class="nav-link" href="mailto:%7A%6F%6E%67%68%61%6E.%6C%69@%6F%75%74%6C%6F%6F%6B.%63%6F%6D" aria-label="Email" title="zonghan.li@outlook.com">
+                        <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=v66rmnsAAAAJ" aria-label="Google Scholar" title="Google Scholar">
+                        <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://www.linkedin.com/in/lizonghan" aria-label="LinkedIn" title="LinkedIn">
+                        <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" rel="noopener" href="https://orcid.org/0000-0003-0253-0139" aria-label="ORCID" title="ORCID">
+                        <i class="fab fa-orcid" aria-hidden="true"></i><span class="sr-only">ORCID</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <button class="nav-link theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+                        <i class="fas fa-moon" aria-hidden="true"></i><span class="sr-only theme-toggle-label">Dark mode</span>
+                    </button>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="navbar-nav flex-row ml-auto d-flex d-lg-none navbar-utility navbar-utility-mobile" aria-label="Contact and display options">
+            <li class="nav-item">
+                <a class="nav-link" href="mailto:%7A%6F%6E%67%68%61%6E.%6C%69@%6F%75%74%6C%6F%6F%6B.%63%6F%6D" aria-label="Email" title="zonghan.li@outlook.com">
+                    <i class="fas fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=v66rmnsAAAAJ" aria-label="Google Scholar" title="Google Scholar">
+                    <i class="ai ai-google-scholar" aria-hidden="true"></i><span class="sr-only">Google Scholar</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://www.linkedin.com/in/lizonghan" aria-label="LinkedIn" title="LinkedIn">
+                    <i class="fab fa-linkedin" aria-hidden="true"></i><span class="sr-only">LinkedIn</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" rel="noopener" href="https://orcid.org/0000-0003-0253-0139" aria-label="ORCID" title="ORCID">
+                    <i class="fab fa-orcid" aria-hidden="true"></i><span class="sr-only">ORCID</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+                    <i class="fas fa-moon" aria-hidden="true"></i><span class="sr-only theme-toggle-label">Dark mode</span>
+                </button>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+    <div class="site-shell container-lg">
+        <div class="row homepage-profile">
+    <div class="col">
+        <div class="homepage-profile-card">
+            <div class="profile-card-body">
+                <div class="profile-layout">
+                    <div class="profile-copy">
+                        <div class="h1 profile-name">
+                            Zonghan Li <small></small>
+                        </div>
+                        <div class="text-profile-position">
+                            
+                            
+                            PhD student @ <a href="https://www.utoronto.ca/" target="_blank" rel="noopener">University of Toronto</a><br/>
+                            
+                        </div>
+                        <div class="text-profile-bio mt-3" >
+                            <p>
+  I am Zonghan Li, a PhD student and researcher at the <a href="https://www.feng-ji.org/lab-members" target="_blank">Psychometrics and Responsible AI Lab</a>, University of Toronto, supervised by Dr. <a href="https://discover.research.utoronto.ca/49686-feng-ji" target="_blank">Feng Ji</a>.
+</p> <p>
+  I study how generative AI is changing the way we measure, intervene in, and understand human behavior. On one side, I design and test LLM-powered personalized interventions, exploring whether and how they can shift the choices people make in everyday life. On the other, I take a critical look at LLMs as research tools. When we use them to simulate participants, generate stimuli, or build scales, when can we trust them, and when do they quietly mislead us? My work cuts across field experiments, computational modeling, and methodology, and I hope it contributes to a more reliable and responsible set of practices for behavioral research.
+</p> <p> I'm also drawn to behaviors where there's a weak link between attitude and action, e.g., pro-environmental and health behaviors. I trace how social events and public policies shape these behaviors, and how these individual-level choices, in turn, aggregate into system-level consequences. </p> <p>
+  I received my M.Sc. in Engineering from <a href="https://www.tsinghua.edu.cn/en/" target="_blank" rel="noopener">Tsinghua University</a>.
+</p> <p>
+  <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> <span style="color: #d60000;"></span> I'm always happy to chat with people working on LLM applications in behavioral simulation and intervention. Please feel free to reach out via email if you'd like to collaborate or just talk through ideas.
+</p>
+                        </div>
+                        
+                    </div>
+
+                    
+                    <figure class="profile-figure">
+                        <img
+                            src="/assets/images/photos/portrait.jpg"
+                            class="profile-portrait"
+                            data-toggle="tooltip"
+                            data-placement="top"
+                            title="Photo credit: Dr. Yiqi Tan."
+                            alt="Portrait of Zonghan Li">
+                    </figure>
+                    
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+
+
+
+
+    
+    
+        
+<section class="homepage-featured homepage-section my-5" id="featured">
+  <div class="homepage-section-heading featured-heading d-flex align-items-baseline justify-content-between mb-3">
+    <h2 class="mb-0">Featured</h2>
+    <a class="homepage-section-link" href="/research">View all research &rarr;</a>
+  </div>
+
+  <div class="featured-grid">
+    
+      
+      
+      
+      
+
+      <a class="featured-card" href="https://doi.org/10.48550/arXiv.2604.02458" target="_blank" rel="noopener">
+        <img class="featured-card-image" src="/assets/images/covers/ClimateLLM26.png" alt="" loading="lazy">
+        <div class="featured-card-body">
+          <div class="featured-card-kicker">LLM & causal inference</div>
+          <h3 class="featured-card-title">Statistical realism is not evidence that LLMs can estimate treatment effects in social science experiments</h3>
+          <p class="featured-card-description">Testing whether synthetic samples generated by language models can recover experimental treatment effects.</p>
+          <div class="featured-card-meta">
+            Under consideration at journal
+          </div>
+        </div>
+      </a>
+    
+      
+      
+      
+      
+
+      <a class="featured-card" href="https://doi.org/10.48550/arXiv.2604.03881" target="_blank" rel="noopener">
+        <img class="featured-card-image" src="/assets/images/covers/nudge26.png" alt="" loading="lazy">
+        <div class="featured-card-body">
+          <div class="featured-card-kicker">Behavioral intervention</div>
+          <h3 class="featured-card-title">LLM-generated personalized nudges for improving pro-environmental behavior: Field evidence from resource conservation</h3>
+          <p class="featured-card-description">Field evidence on personalized, LLM-generated nudges for everyday resource conservation.</p>
+          <div class="featured-card-meta">
+            Under consideration at journal
+          </div>
+        </div>
+      </a>
+    
+      
+      
+      
+      
+
+      <a class="featured-card" href="/research#preprints">
+        <img class="featured-card-image" src="/assets/images/covers/EZR26.png" alt="" loading="lazy">
+        <div class="featured-card-body">
+          <div class="featured-card-kicker">Causal inference</div>
+          <h3 class="featured-card-title">The integrated environmental zoning-based regulation further enhances sustainable development in China</h3>
+          <p class="featured-card-description">Estimating the effects of environmental zoning regulation on sustainable development in China.</p>
+          <div class="featured-card-meta">
+            Under minor revision at Nature Communications
+          </div>
+        </div>
+      </a>
+    
+  </div>
+</section>
+
+    
+
+
+
+
+
+
+
+
+    </div>
+    <footer class="footer border-top py-2 mt-5 bg-white small">
+    <div class="container-lg">
+        <div class="row my-3">
+            <div class="col-6">
+                <div class="text-muted">
+                    <i>Last updated: Aug 2026</i>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="text-right text-muted">
+                    © Zonghan Li 2026
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js" integrity="sha512-XKa9Hemdy1Ui3KSGgJdgMyYlUg1gM+QhL6cnlyTe2qzMCYm4nAZ1PsVerQzTTXzonUR+dmswHqgJPuwCq1MaAg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/github-buttons/2.14.2/buttons.min.js" integrity="sha512-OYwZx04hKFeFNYrWxIyo3atgGpb+cxU0ENWBZs72X7T9U+NoHPM1ftUn/Mfw7dRDXrqWA6M1wBg6z6fGE32aeA==" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" integrity="sha384-7zkQWkzuo3B5mTepMUcHkMB5jZaolc2xDwL6VFqjFALcbeS9Ggm/Yr2r3Dy4lfFg" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+              delimiters: [
+                  {left: '$$', right: '$$', display: true},
+                  {left: '$', right: '$', display: false}
+              ],
+              throwOnError : false
+            });
+        });
+    </script>
+    <script src="/assets/js/common.js"></script>
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/bubble_visual_hash.js"></script>
+    <script src="/assets/js/semantic_scholar_citation_count.js"></script>
+</body>
+</html>

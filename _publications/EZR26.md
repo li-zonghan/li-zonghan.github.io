@@ -1,6 +1,6 @@
 ---
 title:          "The integrated environmental zoning-based regulation further enhances sustainable development in China"
-date:           2026-07-15 00:00:00 +0800
+date:           2026-08-24 00:00:00 +0800
 selected:       true
 featured:       true
 featured_order: 3

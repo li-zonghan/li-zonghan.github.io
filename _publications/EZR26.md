@@ -7,7 +7,7 @@ featured_order: 3
 featured_label: "Causal inference"
 featured_description: "Estimating the effects of environmental zoning regulation on sustainable development in China."
 working_paper:  true
-pub:            "Under minor revision at Nature Communications"
+pub:            "Nature Communications, Accepted"
 pub_date:       ""
 cover:          /assets/images/covers/EZR26.png
 authors:

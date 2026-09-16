@@ -11,7 +11,9 @@ pages:
   url: /teaching
 - name: Team
   url: /team
+  show_in_nav: false
 - name: Résumé
   url: /resume/
+  show_in_nav: false
 #- name: Showcase
 #  url: /showcase

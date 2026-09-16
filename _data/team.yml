@@ -95,15 +95,12 @@ lead:
       website: ""
 
   - name: "Jonathan Barazzutti"
-    last_name: "Barazzutti"
-    initials: "JB"
     role: "Research Assistant"
     title: "Master's student (U of T)"
     short_bio: "Master's student, UofT<br>Economics"
     personal_keywords: []
     bio: ""
     photo: "/assets/images/photos/Jonathan.jpg"
-    photo_position: "center 20%"
     links:
       scholar: ""
       github: ""

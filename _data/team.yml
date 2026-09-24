@@ -31,7 +31,7 @@ current_member:
     role: "Collaborator"
     title: "PhD student (U of T, CS)"
     project: "AI for social science research"
-    short_bio: "PhD student, U of T"
+    short_bio: "PhD student, UofT"
     personal_keywords:
       - "Machine learning"
       - "Feature selection"
@@ -65,7 +65,7 @@ current_member:
   - name: "Wenqian Xu"
     role: "Collaborator"
     title: "PhD student (U of T, Psy)"
-    short_bio: "PhD student, U of T"
+    short_bio: "PhD student, UofT"
     personal_keywords:
       - "Psychometrics"
       - "Reinforcement learning"
@@ -76,6 +76,22 @@ current_member:
       linkedin: ""
       email: ""
       website: "https://pi-xu.github.io"
+
+  - name: "Yuchen (Suey) Zhang"
+    role: "Collaborator"
+    title: "PhD student (U of T, Psy)"
+    short_bio: "PhD student, UofT"
+    personal_keywords:
+      - "AI x psychology"
+      - "Mental health"
+      - "Behavioral psychology"
+    photo: "/assets/images/photos/yuchen.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
       
   - name: "Jonathan Barazzutti"
     role: "Research Assistant"

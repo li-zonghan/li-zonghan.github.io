@@ -26,24 +26,6 @@ current_member:
       linkedin: ""
       email: ""
       website: ""
-
-  - name: "Xinyu Song"
-    role: "Collaborator"
-    title: "PhD student (U of T, CS)"
-    project: "AI for social science research"
-    short_bio: "PhD student, UofT"
-    personal_keywords:
-      - "Machine learning"
-      - "Feature selection"
-      - "GenAI in education"
-    bio: "Xinyu Song is currently pursuing a Master of Engineering in Electrical and Computer Engineering at the University of Toronto. Her research interests include Applications of AI, machine learning, AI compiler development, and unsupervised feature selection. She worked as an AI Compiler intern at AMD, and proposed an unsupervised feature selection algorithm."
-    photo: "/assets/images/photos/xinyu.png"
-    links:
-      scholar: ""
-      github: ""
-      linkedin: "https://www.linkedin.com/in/xinyu-song-281830311/"
-      email: ""
-      website: ""
   
   - name: "Hanzhang Wang"
     role: "Collaborator"

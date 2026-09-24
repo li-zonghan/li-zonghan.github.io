@@ -127,6 +127,21 @@ current_member:
       linkedin: "https://www.linkedin.com/in/yunuo-li-b14392208/"
       email: ""
       website: ""
+  
+  - name: "Jason Vaiakis"
+    role: "Research Assistant"
+    title: "Master's student (U of T)"
+    start: "Feb 2026"
+    short_bio: "Master's student, UofT<br>Applied Psychology and Human Development"
+    personal_keywords:
+      - "Experimental stimulus"
+    photo: "/assets/images/photos/jason.png"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
       
   - name: "Zhixun Yan"
     role: "Research Assistant"
@@ -150,7 +165,7 @@ current_member:
     title: "Undergraduate student (U of T)"
     start: "Sep 2026"
     project: "GenAI for human behavior simulation"
-    short_bio: "Undergraduate student, UofT<br>Life Scienced"
+    short_bio: "Undergraduate student, UofT<br>Life Sciences"
     personal_keywords:
       - "Psychometrics"
       - "Statistical modelling"

@@ -62,6 +62,21 @@ current_member:
       email: ""
       website: ""
       
+  - name: "Wenqian Xu"
+    role: "Collaborator"
+    title: "PhD student (U of T, Psy)"
+    short_bio: "PhD student, U of T"
+    personal_keywords:
+      - "Psychometrics"
+      - "Reinforcement learning"
+    photo: "/assets/images/photos/wenqian.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: "https://pi-xu.github.io"
+      
   - name: "Jonathan Barazzutti"
     role: "Research Assistant"
     title: "Master's student (U of T)"

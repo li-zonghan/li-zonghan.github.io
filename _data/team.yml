@@ -2,12 +2,13 @@ group_name: "GenAI and Human Behavior"
 description: >-
   A part of the Psychometric and Responsible AI Lab at the University of Toronto.
 
-current_member:
+
 lead:
   name: "Zonghan Li"
   role: "PhD Student, University of Toronto"
   note: "I collaborate with RA students on GenAI and human behavior projects."
 
+current_member:
   - name: "Jonathan Barazzutti"
     role: "Research Assistant"
     title: "Master's student (U of T)"

@@ -89,6 +89,22 @@ current_member:
       email: ""
       website: "https://jonathanbarazzutti.com"
 
+  - name: "Rosana Gao"
+    role: "Research Assistant"
+    title: "Ungraduate student (U of T)"
+    short_bio: "Undergraduate student, UofT<br>Engineering Science (Mathematics, Statistics, Finance)"
+    personal_keywords:
+      - "Computational behaviour science"
+      - "Environmental policy"
+    bio: ""
+    photo: "/assets/images/photos/rosana.jpg"
+    links:
+      scholar: ""
+      github: ""
+      linkedin: ""
+      email: ""
+      website: ""
+      
   - name: "Hattie Hu"
     role: "Research Assistant"
     title: "Master's student (U of T)"

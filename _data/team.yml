@@ -31,7 +31,7 @@ current_member:
     role: "Collaborator"
     title: "PhD student (U of T, CS)"
     project: "AI for social science research"
-    short_bio: "PhD student, UofT"
+    short_bio: "PhD student, U of T"
     personal_keywords:
       - "Machine learning"
       - "Feature selection"

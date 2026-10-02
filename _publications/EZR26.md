@@ -7,8 +7,8 @@ featured_order: 3
 featured_label: "Causal inference"
 featured_description: "Estimating the effects of environmental zoning regulation on sustainable development in China."
 working_paper:  false
-pub:            "Nature Communications, Accepted"
-pub_date:       ""
+pub:            "Nature Communications"
+pub_date:       "2026"
 cover:          /assets/images/covers/EZR26.png
 authors:
 - <b>Zonghan Li</b>*

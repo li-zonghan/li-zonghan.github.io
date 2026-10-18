@@ -19,4 +19,6 @@ authors:
 - Dan Xie
 - Feng Ji
 - Yi Liu
+links:
+  Paper: https://doi.org/10.1038/s41467-026-78846-6
 ---
